@@ -1,0 +1,4343 @@
+2024-06-06 08:34:05,303:INFO: ================================================================================
+2024-06-06 08:34:05,303:INFO: Summary of normal model training process:
+2024-06-06 08:34:05,303:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2024-06-06 08:34:05,303:INFO: model: resnet18
+2024-06-06 08:34:05,303:INFO: Device: cuda
+2024-06-06 08:34:05,303:INFO: Number of global rounds: 150
+2024-06-06 08:34:05,303:INFO: Number of local rounds: 10
+2024-06-06 08:34:05,303:INFO: Clents' learning rate: 0.1
+2024-06-06 08:34:05,303:INFO: ================================================================================
+2024-06-06 08:34:05,611:INFO: Users in total: 10
+2024-06-06 08:34:05,800:INFO: Number of users per round / total users: 10 / 10
+2024-06-06 08:34:05,800:INFO: Finished creating FedAvg server.
+2024-06-06 08:34:05,800:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2024-06-06 08:34:06,348:INFO: Average Global Accurancy = 0.1072, Loss = 2.30.
+2024-06-06 08:34:06,348:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:34:42,051:INFO: ================================================================================
+2024-06-06 08:34:42,051:INFO: Summary of normal model training process:
+2024-06-06 08:34:42,051:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2024-06-06 08:34:42,051:INFO: model: resnet18
+2024-06-06 08:34:42,051:INFO: Device: cuda
+2024-06-06 08:34:42,051:INFO: Number of global rounds: 150
+2024-06-06 08:34:42,051:INFO: Number of local rounds: 10
+2024-06-06 08:34:42,051:INFO: Clents' learning rate: 0.1
+2024-06-06 08:34:42,051:INFO: ================================================================================
+2024-06-06 08:34:42,357:INFO: Users in total: 10
+2024-06-06 08:34:42,545:INFO: Number of users per round / total users: 10 / 10
+2024-06-06 08:34:42,545:INFO: Finished creating FedAvg server.
+2024-06-06 08:34:42,545:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2024-06-06 08:34:43,108:INFO: Average Global Accurancy = 0.1072, Loss = 2.30.
+2024-06-06 08:34:43,108:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:35:28,308:INFO: ================================================================================
+2024-06-06 08:35:28,308:INFO: Summary of normal model training process:
+2024-06-06 08:35:28,308:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2024-06-06 08:35:28,308:INFO: model: resnet18
+2024-06-06 08:35:28,308:INFO: Device: cuda
+2024-06-06 08:35:28,308:INFO: Number of global rounds: 150
+2024-06-06 08:35:28,308:INFO: Number of local rounds: 10
+2024-06-06 08:35:28,308:INFO: Clents' learning rate: 0.1
+2024-06-06 08:35:28,308:INFO: ================================================================================
+2024-06-06 08:35:28,624:INFO: Users in total: 10
+2024-06-06 08:35:28,812:INFO: Number of users per round / total users: 10 / 10
+2024-06-06 08:35:28,812:INFO: Finished creating FedAvg server.
+2024-06-06 08:35:28,812:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2024-06-06 08:35:29,368:INFO: Average Global Accurancy = 0.1072, Loss = 2.30.
+2024-06-06 08:35:29,368:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:35:42,871:INFO: ================================================================================
+2024-06-06 08:35:42,871:INFO: Summary of normal model training process:
+2024-06-06 08:35:42,871:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2024-06-06 08:35:42,871:INFO: model: resnet18
+2024-06-06 08:35:42,871:INFO: Device: cuda
+2024-06-06 08:35:42,871:INFO: Number of global rounds: 150
+2024-06-06 08:35:42,871:INFO: Number of local rounds: 10
+2024-06-06 08:35:42,871:INFO: Clents' learning rate: 0.1
+2024-06-06 08:35:42,871:INFO: ================================================================================
+2024-06-06 08:35:43,176:INFO: Users in total: 10
+2024-06-06 08:35:43,363:INFO: Number of users per round / total users: 10 / 10
+2024-06-06 08:35:43,363:INFO: Finished creating FedAvg server.
+2024-06-06 08:35:43,364:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2024-06-06 08:35:43,926:INFO: Average Global Accurancy = 0.1072, Loss = 2.30.
+2024-06-06 08:35:43,926:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:35:52,596:INFO: ================================================================================
+2024-06-06 08:35:52,596:INFO: Summary of normal model training process:
+2024-06-06 08:35:52,596:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2024-06-06 08:35:52,596:INFO: model: resnet18
+2024-06-06 08:35:52,596:INFO: Device: cuda
+2024-06-06 08:35:52,596:INFO: Number of global rounds: 150
+2024-06-06 08:35:52,596:INFO: Number of local rounds: 10
+2024-06-06 08:35:52,596:INFO: Clents' learning rate: 0.1
+2024-06-06 08:35:52,596:INFO: ================================================================================
+2024-06-06 08:35:52,915:INFO: Users in total: 10
+2024-06-06 08:35:53,117:INFO: Number of users per round / total users: 10 / 10
+2024-06-06 08:35:53,118:INFO: Finished creating FedAvg server.
+2024-06-06 08:35:53,118:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2024-06-06 08:35:53,677:INFO: Average Global Accurancy = 0.1072, Loss = 2.30.
+2024-06-06 08:35:53,677:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:37:02,732:INFO: ================================================================================
+2024-06-06 08:37:02,732:INFO: Summary of normal model training process:
+2024-06-06 08:37:02,732:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2024-06-06 08:37:02,732:INFO: model: resnet18
+2024-06-06 08:37:02,732:INFO: Device: cuda
+2024-06-06 08:37:02,732:INFO: Number of global rounds: 150
+2024-06-06 08:37:02,732:INFO: Number of local rounds: 10
+2024-06-06 08:37:02,732:INFO: Clents' learning rate: 0.1
+2024-06-06 08:37:02,732:INFO: ================================================================================
+2024-06-06 08:37:03,044:INFO: Users in total: 10
+2024-06-06 08:37:03,249:INFO: Number of users per round / total users: 10 / 10
+2024-06-06 08:37:03,249:INFO: Finished creating FedAvg server.
+2024-06-06 08:37:03,249:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2024-06-06 08:37:03,814:INFO: Average Global Accurancy = 0.1072, Loss = 2.30.
+2024-06-06 08:37:03,814:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:37:05,173:INFO: 
+
+-------------Round number: 1 -------------
+
+
+2024-06-06 08:37:05,538:INFO: Average Global Accurancy = 0.0956, Loss = 8.10.
+2024-06-06 08:37:05,538:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:37:06,859:INFO: 
+
+-------------Round number: 2 -------------
+
+
+2024-06-06 08:37:07,222:INFO: Average Global Accurancy = 0.1000, Loss = 951.10.
+2024-06-06 08:37:07,222:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:37:08,539:INFO: 
+
+-------------Round number: 3 -------------
+
+
+2024-06-06 08:37:08,947:INFO: Average Global Accurancy = 0.1141, Loss = 7.02.
+2024-06-06 08:37:08,947:INFO: Best Global Accurancy = 0.1141, Loss = 7.02, Iter = 3.
+2024-06-06 08:37:10,268:INFO: 
+
+-------------Round number: 4 -------------
+
+
+2024-06-06 08:37:10,679:INFO: Average Global Accurancy = 0.1699, Loss = 2.25.
+2024-06-06 08:37:10,679:INFO: Best Global Accurancy = 0.1699, Loss = 2.25, Iter = 4.
+2024-06-06 08:37:11,995:INFO: 
+
+-------------Round number: 5 -------------
+
+
+2024-06-06 08:37:12,404:INFO: Average Global Accurancy = 0.2233, Loss = 2.01.
+2024-06-06 08:37:12,404:INFO: Best Global Accurancy = 0.2233, Loss = 2.01, Iter = 5.
+2024-06-06 08:37:13,720:INFO: 
+
+-------------Round number: 6 -------------
+
+
+2024-06-06 08:37:14,131:INFO: Average Global Accurancy = 0.2429, Loss = 1.92.
+2024-06-06 08:37:14,131:INFO: Best Global Accurancy = 0.2429, Loss = 1.92, Iter = 6.
+2024-06-06 08:37:15,447:INFO: 
+
+-------------Round number: 7 -------------
+
+
+2024-06-06 08:37:15,857:INFO: Average Global Accurancy = 0.2768, Loss = 1.87.
+2024-06-06 08:37:15,857:INFO: Best Global Accurancy = 0.2768, Loss = 1.87, Iter = 7.
+2024-06-06 08:37:17,175:INFO: 
+
+-------------Round number: 8 -------------
+
+
+2024-06-06 08:37:17,581:INFO: Average Global Accurancy = 0.3085, Loss = 1.82.
+2024-06-06 08:37:17,581:INFO: Best Global Accurancy = 0.3085, Loss = 1.82, Iter = 8.
+2024-06-06 08:37:18,899:INFO: 
+
+-------------Round number: 9 -------------
+
+
+2024-06-06 08:37:19,309:INFO: Average Global Accurancy = 0.3119, Loss = 1.82.
+2024-06-06 08:37:19,310:INFO: Best Global Accurancy = 0.3119, Loss = 1.82, Iter = 9.
+2024-06-06 08:37:20,629:INFO: 
+
+-------------Round number: 10 -------------
+
+
+2024-06-06 08:37:21,044:INFO: Average Global Accurancy = 0.3315, Loss = 1.77.
+2024-06-06 08:37:21,044:INFO: Best Global Accurancy = 0.3315, Loss = 1.77, Iter = 10.
+2024-06-06 08:37:22,365:INFO: 
+
+-------------Round number: 11 -------------
+
+
+2024-06-06 08:37:22,771:INFO: Average Global Accurancy = 0.3533, Loss = 1.71.
+2024-06-06 08:37:22,771:INFO: Best Global Accurancy = 0.3533, Loss = 1.71, Iter = 11.
+2024-06-06 08:37:24,090:INFO: 
+
+-------------Round number: 12 -------------
+
+
+2024-06-06 08:37:24,495:INFO: Average Global Accurancy = 0.3751, Loss = 1.65.
+2024-06-06 08:37:24,495:INFO: Best Global Accurancy = 0.3751, Loss = 1.65, Iter = 12.
+2024-06-06 08:37:25,815:INFO: 
+
+-------------Round number: 13 -------------
+
+
+2024-06-06 08:37:26,223:INFO: Average Global Accurancy = 0.3841, Loss = 1.64.
+2024-06-06 08:37:26,223:INFO: Best Global Accurancy = 0.3841, Loss = 1.64, Iter = 13.
+2024-06-06 08:37:27,542:INFO: 
+
+-------------Round number: 14 -------------
+
+
+2024-06-06 08:37:27,954:INFO: Average Global Accurancy = 0.3932, Loss = 1.60.
+2024-06-06 08:37:27,954:INFO: Best Global Accurancy = 0.3932, Loss = 1.60, Iter = 14.
+2024-06-06 08:37:29,270:INFO: 
+
+-------------Round number: 15 -------------
+
+
+2024-06-06 08:37:29,680:INFO: Average Global Accurancy = 0.4120, Loss = 1.57.
+2024-06-06 08:37:29,680:INFO: Best Global Accurancy = 0.4120, Loss = 1.57, Iter = 15.
+2024-06-06 08:37:30,996:INFO: 
+
+-------------Round number: 16 -------------
+
+
+2024-06-06 08:37:31,409:INFO: Average Global Accurancy = 0.4263, Loss = 1.55.
+2024-06-06 08:37:31,409:INFO: Best Global Accurancy = 0.4263, Loss = 1.55, Iter = 16.
+2024-06-06 08:37:32,730:INFO: 
+
+-------------Round number: 17 -------------
+
+
+2024-06-06 08:37:33,140:INFO: Average Global Accurancy = 0.4288, Loss = 1.53.
+2024-06-06 08:37:33,140:INFO: Best Global Accurancy = 0.4288, Loss = 1.53, Iter = 17.
+2024-06-06 08:37:34,455:INFO: 
+
+-------------Round number: 18 -------------
+
+
+2024-06-06 08:37:34,819:INFO: Average Global Accurancy = 0.4283, Loss = 1.53.
+2024-06-06 08:37:34,820:INFO: Best Global Accurancy = 0.4288, Loss = 1.53, Iter = 17.
+2024-06-06 08:37:36,134:INFO: 
+
+-------------Round number: 19 -------------
+
+
+2024-06-06 08:37:36,544:INFO: Average Global Accurancy = 0.4435, Loss = 1.50.
+2024-06-06 08:37:36,544:INFO: Best Global Accurancy = 0.4435, Loss = 1.50, Iter = 19.
+2024-06-06 08:37:37,861:INFO: 
+
+-------------Round number: 20 -------------
+
+
+2024-06-06 08:37:38,271:INFO: Average Global Accurancy = 0.4586, Loss = 1.46.
+2024-06-06 08:37:38,271:INFO: Best Global Accurancy = 0.4586, Loss = 1.46, Iter = 20.
+2024-06-06 08:37:39,587:INFO: 
+
+-------------Round number: 21 -------------
+
+
+2024-06-06 08:37:39,995:INFO: Average Global Accurancy = 0.4695, Loss = 1.42.
+2024-06-06 08:37:39,995:INFO: Best Global Accurancy = 0.4695, Loss = 1.42, Iter = 21.
+2024-06-06 08:37:41,312:INFO: 
+
+-------------Round number: 22 -------------
+
+
+2024-06-06 08:37:41,721:INFO: Average Global Accurancy = 0.4725, Loss = 1.42.
+2024-06-06 08:37:41,721:INFO: Best Global Accurancy = 0.4725, Loss = 1.42, Iter = 22.
+2024-06-06 08:37:43,038:INFO: 
+
+-------------Round number: 23 -------------
+
+
+2024-06-06 08:37:43,451:INFO: Average Global Accurancy = 0.4862, Loss = 1.40.
+2024-06-06 08:37:43,451:INFO: Best Global Accurancy = 0.4862, Loss = 1.40, Iter = 23.
+2024-06-06 08:37:44,767:INFO: 
+
+-------------Round number: 24 -------------
+
+
+2024-06-06 08:37:45,175:INFO: Average Global Accurancy = 0.4921, Loss = 1.38.
+2024-06-06 08:37:45,176:INFO: Best Global Accurancy = 0.4921, Loss = 1.38, Iter = 24.
+2024-06-06 08:37:46,491:INFO: 
+
+-------------Round number: 25 -------------
+
+
+2024-06-06 08:37:46,901:INFO: Average Global Accurancy = 0.5045, Loss = 1.36.
+2024-06-06 08:37:46,902:INFO: Best Global Accurancy = 0.5045, Loss = 1.36, Iter = 25.
+2024-06-06 08:37:48,217:INFO: 
+
+-------------Round number: 26 -------------
+
+
+2024-06-06 08:37:48,626:INFO: Average Global Accurancy = 0.5119, Loss = 1.33.
+2024-06-06 08:37:48,626:INFO: Best Global Accurancy = 0.5119, Loss = 1.33, Iter = 26.
+2024-06-06 08:37:49,942:INFO: 
+
+-------------Round number: 27 -------------
+
+
+2024-06-06 08:37:50,306:INFO: Average Global Accurancy = 0.5115, Loss = 1.33.
+2024-06-06 08:37:50,306:INFO: Best Global Accurancy = 0.5119, Loss = 1.33, Iter = 26.
+2024-06-06 08:37:51,625:INFO: 
+
+-------------Round number: 28 -------------
+
+
+2024-06-06 08:37:51,989:INFO: Average Global Accurancy = 0.4941, Loss = 1.37.
+2024-06-06 08:37:51,989:INFO: Best Global Accurancy = 0.5119, Loss = 1.33, Iter = 26.
+2024-06-06 08:37:53,307:INFO: 
+
+-------------Round number: 29 -------------
+
+
+2024-06-06 08:37:53,715:INFO: Average Global Accurancy = 0.5201, Loss = 1.31.
+2024-06-06 08:37:53,715:INFO: Best Global Accurancy = 0.5201, Loss = 1.31, Iter = 29.
+2024-06-06 08:37:55,034:INFO: 
+
+-------------Round number: 30 -------------
+
+
+2024-06-06 08:37:55,442:INFO: Average Global Accurancy = 0.5372, Loss = 1.27.
+2024-06-06 08:37:55,442:INFO: Best Global Accurancy = 0.5372, Loss = 1.27, Iter = 30.
+2024-06-06 08:37:56,760:INFO: 
+
+-------------Round number: 31 -------------
+
+
+2024-06-06 08:37:57,173:INFO: Average Global Accurancy = 0.5469, Loss = 1.24.
+2024-06-06 08:37:57,173:INFO: Best Global Accurancy = 0.5469, Loss = 1.24, Iter = 31.
+2024-06-06 08:37:58,491:INFO: 
+
+-------------Round number: 32 -------------
+
+
+2024-06-06 08:37:58,899:INFO: Average Global Accurancy = 0.5523, Loss = 1.24.
+2024-06-06 08:37:58,900:INFO: Best Global Accurancy = 0.5523, Loss = 1.24, Iter = 32.
+2024-06-06 08:38:00,215:INFO: 
+
+-------------Round number: 33 -------------
+
+
+2024-06-06 08:38:00,579:INFO: Average Global Accurancy = 0.5518, Loss = 1.23.
+2024-06-06 08:38:00,579:INFO: Best Global Accurancy = 0.5523, Loss = 1.24, Iter = 32.
+2024-06-06 08:38:01,894:INFO: 
+
+-------------Round number: 34 -------------
+
+
+2024-06-06 08:38:02,258:INFO: Average Global Accurancy = 0.5494, Loss = 1.23.
+2024-06-06 08:38:02,258:INFO: Best Global Accurancy = 0.5523, Loss = 1.24, Iter = 32.
+2024-06-06 08:38:03,576:INFO: 
+
+-------------Round number: 35 -------------
+
+
+2024-06-06 08:38:04,041:INFO: Average Global Accurancy = 0.5615, Loss = 1.21.
+2024-06-06 08:38:04,042:INFO: Best Global Accurancy = 0.5615, Loss = 1.21, Iter = 35.
+2024-06-06 08:38:05,359:INFO: 
+
+-------------Round number: 36 -------------
+
+
+2024-06-06 08:38:05,766:INFO: Average Global Accurancy = 0.5704, Loss = 1.19.
+2024-06-06 08:38:05,766:INFO: Best Global Accurancy = 0.5704, Loss = 1.19, Iter = 36.
+2024-06-06 08:38:07,083:INFO: 
+
+-------------Round number: 37 -------------
+
+
+2024-06-06 08:38:07,493:INFO: Average Global Accurancy = 0.5783, Loss = 1.17.
+2024-06-06 08:38:07,493:INFO: Best Global Accurancy = 0.5783, Loss = 1.17, Iter = 37.
+2024-06-06 08:38:08,811:INFO: 
+
+-------------Round number: 38 -------------
+
+
+2024-06-06 08:38:09,175:INFO: Average Global Accurancy = 0.5768, Loss = 1.18.
+2024-06-06 08:38:09,175:INFO: Best Global Accurancy = 0.5783, Loss = 1.17, Iter = 37.
+2024-06-06 08:38:10,492:INFO: 
+
+-------------Round number: 39 -------------
+
+
+2024-06-06 08:38:10,901:INFO: Average Global Accurancy = 0.5933, Loss = 1.13.
+2024-06-06 08:38:10,901:INFO: Best Global Accurancy = 0.5933, Loss = 1.13, Iter = 39.
+2024-06-06 08:38:12,217:INFO: 
+
+-------------Round number: 40 -------------
+
+
+2024-06-06 08:38:12,633:INFO: Average Global Accurancy = 0.6108, Loss = 1.10.
+2024-06-06 08:38:12,633:INFO: Best Global Accurancy = 0.6108, Loss = 1.10, Iter = 40.
+2024-06-06 08:38:13,950:INFO: 
+
+-------------Round number: 41 -------------
+
+
+2024-06-06 08:38:14,316:INFO: Average Global Accurancy = 0.6078, Loss = 1.09.
+2024-06-06 08:38:14,316:INFO: Best Global Accurancy = 0.6108, Loss = 1.10, Iter = 40.
+2024-06-06 08:38:15,632:INFO: 
+
+-------------Round number: 42 -------------
+
+
+2024-06-06 08:38:16,044:INFO: Average Global Accurancy = 0.6138, Loss = 1.07.
+2024-06-06 08:38:16,044:INFO: Best Global Accurancy = 0.6138, Loss = 1.07, Iter = 42.
+2024-06-06 08:38:17,360:INFO: 
+
+-------------Round number: 43 -------------
+
+
+2024-06-06 08:38:17,769:INFO: Average Global Accurancy = 0.6193, Loss = 1.07.
+2024-06-06 08:38:17,769:INFO: Best Global Accurancy = 0.6193, Loss = 1.07, Iter = 43.
+2024-06-06 08:38:19,085:INFO: 
+
+-------------Round number: 44 -------------
+
+
+2024-06-06 08:38:19,494:INFO: Average Global Accurancy = 0.6239, Loss = 1.05.
+2024-06-06 08:38:19,494:INFO: Best Global Accurancy = 0.6239, Loss = 1.05, Iter = 44.
+2024-06-06 08:38:20,811:INFO: 
+
+-------------Round number: 45 -------------
+
+
+2024-06-06 08:38:21,218:INFO: Average Global Accurancy = 0.6279, Loss = 1.03.
+2024-06-06 08:38:21,218:INFO: Best Global Accurancy = 0.6279, Loss = 1.03, Iter = 45.
+2024-06-06 08:38:22,533:INFO: 
+
+-------------Round number: 46 -------------
+
+
+2024-06-06 08:38:22,943:INFO: Average Global Accurancy = 0.6384, Loss = 1.01.
+2024-06-06 08:38:22,943:INFO: Best Global Accurancy = 0.6384, Loss = 1.01, Iter = 46.
+2024-06-06 08:38:24,263:INFO: 
+
+-------------Round number: 47 -------------
+
+
+2024-06-06 08:38:24,672:INFO: Average Global Accurancy = 0.6404, Loss = 1.00.
+2024-06-06 08:38:24,672:INFO: Best Global Accurancy = 0.6404, Loss = 1.00, Iter = 47.
+2024-06-06 08:38:25,992:INFO: 
+
+-------------Round number: 48 -------------
+
+
+2024-06-06 08:38:26,400:INFO: Average Global Accurancy = 0.6556, Loss = 0.96.
+2024-06-06 08:38:26,400:INFO: Best Global Accurancy = 0.6556, Loss = 0.96, Iter = 48.
+2024-06-06 08:38:27,716:INFO: 
+
+-------------Round number: 49 -------------
+
+
+2024-06-06 08:38:28,085:INFO: Average Global Accurancy = 0.6546, Loss = 0.97.
+2024-06-06 08:38:28,085:INFO: Best Global Accurancy = 0.6556, Loss = 0.96, Iter = 48.
+2024-06-06 08:38:29,403:INFO: 
+
+-------------Round number: 50 -------------
+
+
+2024-06-06 08:38:29,767:INFO: Average Global Accurancy = 0.6514, Loss = 0.97.
+2024-06-06 08:38:29,767:INFO: Best Global Accurancy = 0.6556, Loss = 0.96, Iter = 48.
+2024-06-06 08:38:31,087:INFO: 
+
+-------------Round number: 51 -------------
+
+
+2024-06-06 08:38:31,496:INFO: Average Global Accurancy = 0.6598, Loss = 0.95.
+2024-06-06 08:38:31,496:INFO: Best Global Accurancy = 0.6598, Loss = 0.95, Iter = 51.
+2024-06-06 08:38:32,815:INFO: 
+
+-------------Round number: 52 -------------
+
+
+2024-06-06 08:38:33,224:INFO: Average Global Accurancy = 0.6733, Loss = 0.94.
+2024-06-06 08:38:33,225:INFO: Best Global Accurancy = 0.6733, Loss = 0.94, Iter = 52.
+2024-06-06 08:38:34,545:INFO: 
+
+-------------Round number: 53 -------------
+
+
+2024-06-06 08:38:34,909:INFO: Average Global Accurancy = 0.6695, Loss = 0.94.
+2024-06-06 08:38:34,909:INFO: Best Global Accurancy = 0.6733, Loss = 0.94, Iter = 52.
+2024-06-06 08:38:36,232:INFO: 
+
+-------------Round number: 54 -------------
+
+
+2024-06-06 08:38:36,642:INFO: Average Global Accurancy = 0.6774, Loss = 0.90.
+2024-06-06 08:38:36,642:INFO: Best Global Accurancy = 0.6774, Loss = 0.90, Iter = 54.
+2024-06-06 08:38:37,963:INFO: 
+
+-------------Round number: 55 -------------
+
+
+2024-06-06 08:38:38,372:INFO: Average Global Accurancy = 0.6831, Loss = 0.90.
+2024-06-06 08:38:38,372:INFO: Best Global Accurancy = 0.6831, Loss = 0.90, Iter = 55.
+2024-06-06 08:38:39,692:INFO: 
+
+-------------Round number: 56 -------------
+
+
+2024-06-06 08:38:40,057:INFO: Average Global Accurancy = 0.6794, Loss = 0.90.
+2024-06-06 08:38:40,057:INFO: Best Global Accurancy = 0.6831, Loss = 0.90, Iter = 55.
+2024-06-06 08:38:41,376:INFO: 
+
+-------------Round number: 57 -------------
+
+
+2024-06-06 08:38:41,791:INFO: Average Global Accurancy = 0.6899, Loss = 0.89.
+2024-06-06 08:38:41,791:INFO: Best Global Accurancy = 0.6899, Loss = 0.89, Iter = 57.
+2024-06-06 08:38:43,112:INFO: 
+
+-------------Round number: 58 -------------
+
+
+2024-06-06 08:38:43,476:INFO: Average Global Accurancy = 0.6860, Loss = 0.90.
+2024-06-06 08:38:43,476:INFO: Best Global Accurancy = 0.6899, Loss = 0.89, Iter = 57.
+2024-06-06 08:38:44,795:INFO: 
+
+-------------Round number: 59 -------------
+
+
+2024-06-06 08:38:45,159:INFO: Average Global Accurancy = 0.6890, Loss = 0.88.
+2024-06-06 08:38:45,159:INFO: Best Global Accurancy = 0.6899, Loss = 0.89, Iter = 57.
+2024-06-06 08:38:46,479:INFO: 
+
+-------------Round number: 60 -------------
+
+
+2024-06-06 08:38:46,843:INFO: Average Global Accurancy = 0.6891, Loss = 0.88.
+2024-06-06 08:38:46,843:INFO: Best Global Accurancy = 0.6899, Loss = 0.89, Iter = 57.
+2024-06-06 08:38:48,163:INFO: 
+
+-------------Round number: 61 -------------
+
+
+2024-06-06 08:38:48,573:INFO: Average Global Accurancy = 0.6928, Loss = 0.86.
+2024-06-06 08:38:48,573:INFO: Best Global Accurancy = 0.6928, Loss = 0.86, Iter = 61.
+2024-06-06 08:38:49,891:INFO: 
+
+-------------Round number: 62 -------------
+
+
+2024-06-06 08:38:50,301:INFO: Average Global Accurancy = 0.7122, Loss = 0.82.
+2024-06-06 08:38:50,301:INFO: Best Global Accurancy = 0.7122, Loss = 0.82, Iter = 62.
+2024-06-06 08:38:51,619:INFO: 
+
+-------------Round number: 63 -------------
+
+
+2024-06-06 08:38:51,983:INFO: Average Global Accurancy = 0.7025, Loss = 0.84.
+2024-06-06 08:38:51,983:INFO: Best Global Accurancy = 0.7122, Loss = 0.82, Iter = 62.
+2024-06-06 08:38:53,301:INFO: 
+
+-------------Round number: 64 -------------
+
+
+2024-06-06 08:38:53,710:INFO: Average Global Accurancy = 0.7239, Loss = 0.79.
+2024-06-06 08:38:53,711:INFO: Best Global Accurancy = 0.7239, Loss = 0.79, Iter = 64.
+2024-06-06 08:38:55,030:INFO: 
+
+-------------Round number: 65 -------------
+
+
+2024-06-06 08:38:55,395:INFO: Average Global Accurancy = 0.7146, Loss = 0.82.
+2024-06-06 08:38:55,395:INFO: Best Global Accurancy = 0.7239, Loss = 0.79, Iter = 64.
+2024-06-06 08:38:56,712:INFO: 
+
+-------------Round number: 66 -------------
+
+
+2024-06-06 08:38:57,121:INFO: Average Global Accurancy = 0.7257, Loss = 0.79.
+2024-06-06 08:38:57,121:INFO: Best Global Accurancy = 0.7257, Loss = 0.79, Iter = 66.
+2024-06-06 08:38:58,442:INFO: 
+
+-------------Round number: 67 -------------
+
+
+2024-06-06 08:38:58,851:INFO: Average Global Accurancy = 0.7305, Loss = 0.79.
+2024-06-06 08:38:58,851:INFO: Best Global Accurancy = 0.7305, Loss = 0.79, Iter = 67.
+2024-06-06 08:39:00,170:INFO: 
+
+-------------Round number: 68 -------------
+
+
+2024-06-06 08:39:00,534:INFO: Average Global Accurancy = 0.7227, Loss = 0.80.
+2024-06-06 08:39:00,534:INFO: Best Global Accurancy = 0.7305, Loss = 0.79, Iter = 67.
+2024-06-06 08:39:01,856:INFO: 
+
+-------------Round number: 69 -------------
+
+
+2024-06-06 08:39:02,220:INFO: Average Global Accurancy = 0.7186, Loss = 0.80.
+2024-06-06 08:39:02,220:INFO: Best Global Accurancy = 0.7305, Loss = 0.79, Iter = 67.
+2024-06-06 08:39:03,540:INFO: 
+
+-------------Round number: 70 -------------
+
+
+2024-06-06 08:39:03,950:INFO: Average Global Accurancy = 0.7317, Loss = 0.77.
+2024-06-06 08:39:03,950:INFO: Best Global Accurancy = 0.7317, Loss = 0.77, Iter = 70.
+2024-06-06 08:39:05,269:INFO: 
+
+-------------Round number: 71 -------------
+
+
+2024-06-06 08:39:05,634:INFO: Average Global Accurancy = 0.7300, Loss = 0.79.
+2024-06-06 08:39:05,634:INFO: Best Global Accurancy = 0.7317, Loss = 0.77, Iter = 70.
+2024-06-06 08:39:06,952:INFO: 
+
+-------------Round number: 72 -------------
+
+
+2024-06-06 08:39:07,317:INFO: Average Global Accurancy = 0.7263, Loss = 0.78.
+2024-06-06 08:39:07,317:INFO: Best Global Accurancy = 0.7317, Loss = 0.77, Iter = 70.
+2024-06-06 08:39:08,634:INFO: 
+
+-------------Round number: 73 -------------
+
+
+2024-06-06 08:39:09,046:INFO: Average Global Accurancy = 0.7326, Loss = 0.76.
+2024-06-06 08:39:09,046:INFO: Best Global Accurancy = 0.7326, Loss = 0.76, Iter = 73.
+2024-06-06 08:39:10,365:INFO: 
+
+-------------Round number: 74 -------------
+
+
+2024-06-06 08:39:10,730:INFO: Average Global Accurancy = 0.7117, Loss = 0.83.
+2024-06-06 08:39:10,730:INFO: Best Global Accurancy = 0.7326, Loss = 0.76, Iter = 73.
+2024-06-06 08:39:12,048:INFO: 
+
+-------------Round number: 75 -------------
+
+
+2024-06-06 08:39:12,458:INFO: Average Global Accurancy = 0.7327, Loss = 0.78.
+2024-06-06 08:39:12,458:INFO: Best Global Accurancy = 0.7327, Loss = 0.78, Iter = 75.
+2024-06-06 08:39:13,776:INFO: 
+
+-------------Round number: 76 -------------
+
+
+2024-06-06 08:39:14,186:INFO: Average Global Accurancy = 0.7436, Loss = 0.74.
+2024-06-06 08:39:14,186:INFO: Best Global Accurancy = 0.7436, Loss = 0.74, Iter = 76.
+2024-06-06 08:39:15,504:INFO: 
+
+-------------Round number: 77 -------------
+
+
+2024-06-06 08:39:15,869:INFO: Average Global Accurancy = 0.7225, Loss = 0.84.
+2024-06-06 08:39:15,869:INFO: Best Global Accurancy = 0.7436, Loss = 0.74, Iter = 76.
+2024-06-06 08:39:17,187:INFO: 
+
+-------------Round number: 78 -------------
+
+
+2024-06-06 08:39:17,595:INFO: Average Global Accurancy = 0.7517, Loss = 0.74.
+2024-06-06 08:39:17,595:INFO: Best Global Accurancy = 0.7517, Loss = 0.74, Iter = 78.
+2024-06-06 08:39:18,913:INFO: 
+
+-------------Round number: 79 -------------
+
+
+2024-06-06 08:39:19,322:INFO: Average Global Accurancy = 0.7535, Loss = 0.72.
+2024-06-06 08:39:19,322:INFO: Best Global Accurancy = 0.7535, Loss = 0.72, Iter = 79.
+2024-06-06 08:39:20,642:INFO: 
+
+-------------Round number: 80 -------------
+
+
+2024-06-06 08:39:21,057:INFO: Average Global Accurancy = 0.7551, Loss = 0.72.
+2024-06-06 08:39:21,057:INFO: Best Global Accurancy = 0.7551, Loss = 0.72, Iter = 80.
+2024-06-06 08:39:22,375:INFO: 
+
+-------------Round number: 81 -------------
+
+
+2024-06-06 08:39:22,741:INFO: Average Global Accurancy = 0.7478, Loss = 0.75.
+2024-06-06 08:39:22,741:INFO: Best Global Accurancy = 0.7551, Loss = 0.72, Iter = 80.
+2024-06-06 08:39:24,059:INFO: 
+
+-------------Round number: 82 -------------
+
+
+2024-06-06 08:39:24,423:INFO: Average Global Accurancy = 0.7471, Loss = 0.74.
+2024-06-06 08:39:24,424:INFO: Best Global Accurancy = 0.7551, Loss = 0.72, Iter = 80.
+2024-06-06 08:39:25,740:INFO: 
+
+-------------Round number: 83 -------------
+
+
+2024-06-06 08:39:26,149:INFO: Average Global Accurancy = 0.7553, Loss = 0.73.
+2024-06-06 08:39:26,149:INFO: Best Global Accurancy = 0.7553, Loss = 0.73, Iter = 83.
+2024-06-06 08:39:27,471:INFO: 
+
+-------------Round number: 84 -------------
+
+
+2024-06-06 08:39:27,837:INFO: Average Global Accurancy = 0.7522, Loss = 0.72.
+2024-06-06 08:39:27,837:INFO: Best Global Accurancy = 0.7553, Loss = 0.73, Iter = 83.
+2024-06-06 08:39:29,158:INFO: 
+
+-------------Round number: 85 -------------
+
+
+2024-06-06 08:39:29,523:INFO: Average Global Accurancy = 0.7454, Loss = 0.74.
+2024-06-06 08:39:29,523:INFO: Best Global Accurancy = 0.7553, Loss = 0.73, Iter = 83.
+2024-06-06 08:39:30,840:INFO: 
+
+-------------Round number: 86 -------------
+
+
+2024-06-06 08:39:31,251:INFO: Average Global Accurancy = 0.7558, Loss = 0.76.
+2024-06-06 08:39:31,251:INFO: Best Global Accurancy = 0.7558, Loss = 0.76, Iter = 86.
+2024-06-06 08:39:32,569:INFO: 
+
+-------------Round number: 87 -------------
+
+
+2024-06-06 08:39:32,935:INFO: Average Global Accurancy = 0.7544, Loss = 0.74.
+2024-06-06 08:39:32,935:INFO: Best Global Accurancy = 0.7558, Loss = 0.76, Iter = 86.
+2024-06-06 08:39:34,257:INFO: 
+
+-------------Round number: 88 -------------
+
+
+2024-06-06 08:39:34,621:INFO: Average Global Accurancy = 0.7435, Loss = 0.75.
+2024-06-06 08:39:34,622:INFO: Best Global Accurancy = 0.7558, Loss = 0.76, Iter = 86.
+2024-06-06 08:39:35,941:INFO: 
+
+-------------Round number: 89 -------------
+
+
+2024-06-06 08:39:36,352:INFO: Average Global Accurancy = 0.7630, Loss = 0.73.
+2024-06-06 08:39:36,352:INFO: Best Global Accurancy = 0.7630, Loss = 0.73, Iter = 89.
+2024-06-06 08:39:37,671:INFO: 
+
+-------------Round number: 90 -------------
+
+
+2024-06-06 08:39:38,037:INFO: Average Global Accurancy = 0.7619, Loss = 0.74.
+2024-06-06 08:39:38,037:INFO: Best Global Accurancy = 0.7630, Loss = 0.73, Iter = 89.
+2024-06-06 08:39:39,353:INFO: 
+
+-------------Round number: 91 -------------
+
+
+2024-06-06 08:39:39,718:INFO: Average Global Accurancy = 0.7587, Loss = 0.76.
+2024-06-06 08:39:39,718:INFO: Best Global Accurancy = 0.7630, Loss = 0.73, Iter = 89.
+2024-06-06 08:39:41,036:INFO: 
+
+-------------Round number: 92 -------------
+
+
+2024-06-06 08:39:41,401:INFO: Average Global Accurancy = 0.7522, Loss = 0.77.
+2024-06-06 08:39:41,401:INFO: Best Global Accurancy = 0.7630, Loss = 0.73, Iter = 89.
+2024-06-06 08:39:42,719:INFO: 
+
+-------------Round number: 93 -------------
+
+
+2024-06-06 08:39:43,129:INFO: Average Global Accurancy = 0.7631, Loss = 0.74.
+2024-06-06 08:39:43,129:INFO: Best Global Accurancy = 0.7631, Loss = 0.74, Iter = 93.
+2024-06-06 08:39:44,449:INFO: 
+
+-------------Round number: 94 -------------
+
+
+2024-06-06 08:39:44,858:INFO: Average Global Accurancy = 0.7682, Loss = 0.74.
+2024-06-06 08:39:44,859:INFO: Best Global Accurancy = 0.7682, Loss = 0.74, Iter = 94.
+2024-06-06 08:39:46,177:INFO: 
+
+-------------Round number: 95 -------------
+
+
+2024-06-06 08:39:46,542:INFO: Average Global Accurancy = 0.7621, Loss = 0.75.
+2024-06-06 08:39:46,542:INFO: Best Global Accurancy = 0.7682, Loss = 0.74, Iter = 94.
+2024-06-06 08:39:47,859:INFO: 
+
+-------------Round number: 96 -------------
+
+
+2024-06-06 08:39:48,223:INFO: Average Global Accurancy = 0.7558, Loss = 0.80.
+2024-06-06 08:39:48,223:INFO: Best Global Accurancy = 0.7682, Loss = 0.74, Iter = 94.
+2024-06-06 08:39:49,541:INFO: 
+
+-------------Round number: 97 -------------
+
+
+2024-06-06 08:39:49,906:INFO: Average Global Accurancy = 0.7505, Loss = 0.76.
+2024-06-06 08:39:49,906:INFO: Best Global Accurancy = 0.7682, Loss = 0.74, Iter = 94.
+2024-06-06 08:39:51,226:INFO: 
+
+-------------Round number: 98 -------------
+
+
+2024-06-06 08:39:51,590:INFO: Average Global Accurancy = 0.7564, Loss = 0.77.
+2024-06-06 08:39:51,591:INFO: Best Global Accurancy = 0.7682, Loss = 0.74, Iter = 94.
+2024-06-06 08:39:52,908:INFO: 
+
+-------------Round number: 99 -------------
+
+
+2024-06-06 08:39:53,319:INFO: Average Global Accurancy = 0.7708, Loss = 0.73.
+2024-06-06 08:39:53,319:INFO: Best Global Accurancy = 0.7708, Loss = 0.73, Iter = 99.
+2024-06-06 08:39:54,638:INFO: 
+
+-------------Round number: 100 -------------
+
+
+2024-06-06 08:39:55,052:INFO: Average Global Accurancy = 0.7753, Loss = 0.74.
+2024-06-06 08:39:55,052:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:39:56,371:INFO: 
+
+-------------Round number: 101 -------------
+
+
+2024-06-06 08:39:56,736:INFO: Average Global Accurancy = 0.7590, Loss = 0.80.
+2024-06-06 08:39:56,736:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:39:58,056:INFO: 
+
+-------------Round number: 102 -------------
+
+
+2024-06-06 08:39:58,420:INFO: Average Global Accurancy = 0.7561, Loss = 0.80.
+2024-06-06 08:39:58,420:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:39:59,737:INFO: 
+
+-------------Round number: 103 -------------
+
+
+2024-06-06 08:40:00,102:INFO: Average Global Accurancy = 0.7667, Loss = 0.77.
+2024-06-06 08:40:00,102:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:40:01,427:INFO: 
+
+-------------Round number: 104 -------------
+
+
+2024-06-06 08:40:01,796:INFO: Average Global Accurancy = 0.7728, Loss = 0.77.
+2024-06-06 08:40:01,796:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:40:03,115:INFO: 
+
+-------------Round number: 105 -------------
+
+
+2024-06-06 08:40:03,481:INFO: Average Global Accurancy = 0.7708, Loss = 0.77.
+2024-06-06 08:40:03,482:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:40:04,799:INFO: 
+
+-------------Round number: 106 -------------
+
+
+2024-06-06 08:40:05,165:INFO: Average Global Accurancy = 0.7703, Loss = 0.74.
+2024-06-06 08:40:05,165:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:40:06,484:INFO: 
+
+-------------Round number: 107 -------------
+
+
+2024-06-06 08:40:06,849:INFO: Average Global Accurancy = 0.7715, Loss = 0.74.
+2024-06-06 08:40:06,849:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:40:08,169:INFO: 
+
+-------------Round number: 108 -------------
+
+
+2024-06-06 08:40:08,533:INFO: Average Global Accurancy = 0.7666, Loss = 0.80.
+2024-06-06 08:40:08,533:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:40:09,852:INFO: 
+
+-------------Round number: 109 -------------
+
+
+2024-06-06 08:40:10,218:INFO: Average Global Accurancy = 0.7703, Loss = 0.80.
+2024-06-06 08:40:10,218:INFO: Best Global Accurancy = 0.7753, Loss = 0.74, Iter = 100.
+2024-06-06 08:40:11,539:INFO: 
+
+-------------Round number: 110 -------------
+
+
+2024-06-06 08:40:11,951:INFO: Average Global Accurancy = 0.7795, Loss = 0.75.
+2024-06-06 08:40:11,951:INFO: Best Global Accurancy = 0.7795, Loss = 0.75, Iter = 110.
+2024-06-06 08:40:13,269:INFO: 
+
+-------------Round number: 111 -------------
+
+
+2024-06-06 08:40:13,634:INFO: Average Global Accurancy = 0.7664, Loss = 0.79.
+2024-06-06 08:40:13,634:INFO: Best Global Accurancy = 0.7795, Loss = 0.75, Iter = 110.
+2024-06-06 08:40:14,953:INFO: 
+
+-------------Round number: 112 -------------
+
+
+2024-06-06 08:40:15,318:INFO: Average Global Accurancy = 0.7705, Loss = 0.78.
+2024-06-06 08:40:15,318:INFO: Best Global Accurancy = 0.7795, Loss = 0.75, Iter = 110.
+2024-06-06 08:40:16,635:INFO: 
+
+-------------Round number: 113 -------------
+
+
+2024-06-06 08:40:17,000:INFO: Average Global Accurancy = 0.7754, Loss = 0.78.
+2024-06-06 08:40:17,000:INFO: Best Global Accurancy = 0.7795, Loss = 0.75, Iter = 110.
+2024-06-06 08:40:18,318:INFO: 
+
+-------------Round number: 114 -------------
+
+
+2024-06-06 08:40:18,682:INFO: Average Global Accurancy = 0.7759, Loss = 0.78.
+2024-06-06 08:40:18,682:INFO: Best Global Accurancy = 0.7795, Loss = 0.75, Iter = 110.
+2024-06-06 08:40:20,000:INFO: 
+
+-------------Round number: 115 -------------
+
+
+2024-06-06 08:40:20,364:INFO: Average Global Accurancy = 0.7724, Loss = 0.79.
+2024-06-06 08:40:20,364:INFO: Best Global Accurancy = 0.7795, Loss = 0.75, Iter = 110.
+2024-06-06 08:40:21,684:INFO: 
+
+-------------Round number: 116 -------------
+
+
+2024-06-06 08:40:22,049:INFO: Average Global Accurancy = 0.7662, Loss = 0.83.
+2024-06-06 08:40:22,050:INFO: Best Global Accurancy = 0.7795, Loss = 0.75, Iter = 110.
+2024-06-06 08:40:23,370:INFO: 
+
+-------------Round number: 117 -------------
+
+
+2024-06-06 08:40:23,735:INFO: Average Global Accurancy = 0.7786, Loss = 0.77.
+2024-06-06 08:40:23,735:INFO: Best Global Accurancy = 0.7795, Loss = 0.75, Iter = 110.
+2024-06-06 08:40:25,055:INFO: 
+
+-------------Round number: 118 -------------
+
+
+2024-06-06 08:40:25,420:INFO: Average Global Accurancy = 0.7741, Loss = 0.79.
+2024-06-06 08:40:25,420:INFO: Best Global Accurancy = 0.7795, Loss = 0.75, Iter = 110.
+2024-06-06 08:40:26,739:INFO: 
+
+-------------Round number: 119 -------------
+
+
+2024-06-06 08:40:27,147:INFO: Average Global Accurancy = 0.7818, Loss = 0.76.
+2024-06-06 08:40:27,147:INFO: Best Global Accurancy = 0.7818, Loss = 0.76, Iter = 119.
+2024-06-06 08:40:28,465:INFO: 
+
+-------------Round number: 120 -------------
+
+
+2024-06-06 08:40:28,878:INFO: Average Global Accurancy = 0.7826, Loss = 0.75.
+2024-06-06 08:40:28,878:INFO: Best Global Accurancy = 0.7826, Loss = 0.75, Iter = 120.
+2024-06-06 08:40:30,194:INFO: 
+
+-------------Round number: 121 -------------
+
+
+2024-06-06 08:40:30,559:INFO: Average Global Accurancy = 0.7760, Loss = 0.79.
+2024-06-06 08:40:30,559:INFO: Best Global Accurancy = 0.7826, Loss = 0.75, Iter = 120.
+2024-06-06 08:40:31,879:INFO: 
+
+-------------Round number: 122 -------------
+
+
+2024-06-06 08:40:32,290:INFO: Average Global Accurancy = 0.7845, Loss = 0.78.
+2024-06-06 08:40:32,290:INFO: Best Global Accurancy = 0.7845, Loss = 0.78, Iter = 122.
+2024-06-06 08:40:33,607:INFO: 
+
+-------------Round number: 123 -------------
+
+
+2024-06-06 08:40:34,020:INFO: Average Global Accurancy = 0.7646, Loss = 0.87.
+2024-06-06 08:40:34,021:INFO: Best Global Accurancy = 0.7845, Loss = 0.78, Iter = 122.
+2024-06-06 08:40:35,337:INFO: 
+
+-------------Round number: 124 -------------
+
+
+2024-06-06 08:40:35,702:INFO: Average Global Accurancy = 0.7687, Loss = 0.86.
+2024-06-06 08:40:35,702:INFO: Best Global Accurancy = 0.7845, Loss = 0.78, Iter = 122.
+2024-06-06 08:40:37,018:INFO: 
+
+-------------Round number: 125 -------------
+
+
+2024-06-06 08:40:37,383:INFO: Average Global Accurancy = 0.7782, Loss = 0.81.
+2024-06-06 08:40:37,383:INFO: Best Global Accurancy = 0.7845, Loss = 0.78, Iter = 122.
+2024-06-06 08:40:38,702:INFO: 
+
+-------------Round number: 126 -------------
+
+
+2024-06-06 08:40:39,067:INFO: Average Global Accurancy = 0.7804, Loss = 0.80.
+2024-06-06 08:40:39,067:INFO: Best Global Accurancy = 0.7845, Loss = 0.78, Iter = 122.
+2024-06-06 08:40:40,386:INFO: 
+
+-------------Round number: 127 -------------
+
+
+2024-06-06 08:40:40,751:INFO: Average Global Accurancy = 0.7780, Loss = 0.80.
+2024-06-06 08:40:40,751:INFO: Best Global Accurancy = 0.7845, Loss = 0.78, Iter = 122.
+2024-06-06 08:40:42,069:INFO: 
+
+-------------Round number: 128 -------------
+
+
+2024-06-06 08:40:42,485:INFO: Average Global Accurancy = 0.7884, Loss = 0.76.
+2024-06-06 08:40:42,485:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:43,802:INFO: 
+
+-------------Round number: 129 -------------
+
+
+2024-06-06 08:40:44,167:INFO: Average Global Accurancy = 0.7777, Loss = 0.79.
+2024-06-06 08:40:44,167:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:45,484:INFO: 
+
+-------------Round number: 130 -------------
+
+
+2024-06-06 08:40:45,848:INFO: Average Global Accurancy = 0.7752, Loss = 0.81.
+2024-06-06 08:40:45,848:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:47,168:INFO: 
+
+-------------Round number: 131 -------------
+
+
+2024-06-06 08:40:47,534:INFO: Average Global Accurancy = 0.7645, Loss = 0.91.
+2024-06-06 08:40:47,534:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:48,852:INFO: 
+
+-------------Round number: 132 -------------
+
+
+2024-06-06 08:40:49,217:INFO: Average Global Accurancy = 0.7690, Loss = 0.86.
+2024-06-06 08:40:49,217:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:50,535:INFO: 
+
+-------------Round number: 133 -------------
+
+
+2024-06-06 08:40:50,899:INFO: Average Global Accurancy = 0.7743, Loss = 0.87.
+2024-06-06 08:40:50,899:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:52,218:INFO: 
+
+-------------Round number: 134 -------------
+
+
+2024-06-06 08:40:52,583:INFO: Average Global Accurancy = 0.7821, Loss = 0.79.
+2024-06-06 08:40:52,583:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:53,902:INFO: 
+
+-------------Round number: 135 -------------
+
+
+2024-06-06 08:40:54,266:INFO: Average Global Accurancy = 0.7813, Loss = 0.79.
+2024-06-06 08:40:54,266:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:55,584:INFO: 
+
+-------------Round number: 136 -------------
+
+
+2024-06-06 08:40:55,949:INFO: Average Global Accurancy = 0.7748, Loss = 0.84.
+2024-06-06 08:40:55,949:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:57,267:INFO: 
+
+-------------Round number: 137 -------------
+
+
+2024-06-06 08:40:57,632:INFO: Average Global Accurancy = 0.7692, Loss = 0.92.
+2024-06-06 08:40:57,632:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:40:58,948:INFO: 
+
+-------------Round number: 138 -------------
+
+
+2024-06-06 08:40:59,313:INFO: Average Global Accurancy = 0.7755, Loss = 0.84.
+2024-06-06 08:40:59,313:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:41:00,630:INFO: 
+
+-------------Round number: 139 -------------
+
+
+2024-06-06 08:41:00,995:INFO: Average Global Accurancy = 0.7821, Loss = 0.79.
+2024-06-06 08:41:00,995:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:41:02,314:INFO: 
+
+-------------Round number: 140 -------------
+
+
+2024-06-06 08:41:02,679:INFO: Average Global Accurancy = 0.7835, Loss = 0.80.
+2024-06-06 08:41:02,679:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:41:03,998:INFO: 
+
+-------------Round number: 141 -------------
+
+
+2024-06-06 08:41:04,362:INFO: Average Global Accurancy = 0.7796, Loss = 0.82.
+2024-06-06 08:41:04,362:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:41:05,679:INFO: 
+
+-------------Round number: 142 -------------
+
+
+2024-06-06 08:41:06,045:INFO: Average Global Accurancy = 0.7779, Loss = 0.84.
+2024-06-06 08:41:06,046:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:41:07,364:INFO: 
+
+-------------Round number: 143 -------------
+
+
+2024-06-06 08:41:07,730:INFO: Average Global Accurancy = 0.7851, Loss = 0.80.
+2024-06-06 08:41:07,730:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:41:09,049:INFO: 
+
+-------------Round number: 144 -------------
+
+
+2024-06-06 08:41:09,414:INFO: Average Global Accurancy = 0.7859, Loss = 0.80.
+2024-06-06 08:41:09,414:INFO: Best Global Accurancy = 0.7884, Loss = 0.76, Iter = 128.
+2024-06-06 08:41:10,733:INFO: 
+
+-------------Round number: 145 -------------
+
+
+2024-06-06 08:41:11,143:INFO: Average Global Accurancy = 0.7935, Loss = 0.78.
+2024-06-06 08:41:11,143:INFO: Best Global Accurancy = 0.7935, Loss = 0.78, Iter = 145.
+2024-06-06 08:41:12,462:INFO: 
+
+-------------Round number: 146 -------------
+
+
+2024-06-06 08:41:12,828:INFO: Average Global Accurancy = 0.7872, Loss = 0.82.
+2024-06-06 08:41:12,828:INFO: Best Global Accurancy = 0.7935, Loss = 0.78, Iter = 145.
+2024-06-06 08:41:14,145:INFO: 
+
+-------------Round number: 147 -------------
+
+
+2024-06-06 08:41:14,510:INFO: Average Global Accurancy = 0.7909, Loss = 0.80.
+2024-06-06 08:41:14,510:INFO: Best Global Accurancy = 0.7935, Loss = 0.78, Iter = 145.
+2024-06-06 08:41:15,828:INFO: 
+
+-------------Round number: 148 -------------
+
+
+2024-06-06 08:41:16,193:INFO: Average Global Accurancy = 0.7862, Loss = 0.82.
+2024-06-06 08:41:16,193:INFO: Best Global Accurancy = 0.7935, Loss = 0.78, Iter = 145.
+2024-06-06 08:41:17,513:INFO: 
+
+-------------Round number: 149 -------------
+
+
+2024-06-06 08:41:17,879:INFO: Average Global Accurancy = 0.7929, Loss = 0.79.
+2024-06-06 08:41:17,879:INFO: Best Global Accurancy = 0.7935, Loss = 0.78, Iter = 145.
+2024-06-06 08:47:56,064:INFO: ================================================================================
+2024-06-06 08:47:56,064:INFO: Summary of normal model training process:
+2024-06-06 08:47:56,064:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2024-06-06 08:47:56,064:INFO: model: resnet18
+2024-06-06 08:47:56,064:INFO: Device: cuda
+2024-06-06 08:47:56,064:INFO: Number of global rounds: 150
+2024-06-06 08:47:56,064:INFO: Number of local rounds: 10
+2024-06-06 08:47:56,064:INFO: Clents' learning rate: 0.1
+2024-06-06 08:47:56,064:INFO: ================================================================================
+2024-06-06 08:47:56,385:INFO: Users in total: 10
+2024-06-06 08:47:56,574:INFO: Number of users per round / total users: 2 / 10
+2024-06-06 08:47:56,574:INFO: Finished creating FedAvg server.
+2024-06-06 08:47:56,574:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2024-06-06 08:47:57,136:INFO: Average Global Accurancy = 0.1072, Loss = 2.30.
+2024-06-06 08:47:57,136:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:47:57,439:INFO: 
+
+-------------Round number: 1 -------------
+
+
+2024-06-06 08:47:57,809:INFO: Average Global Accurancy = 0.1000, Loss = 785.71.
+2024-06-06 08:47:57,809:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:47:58,065:INFO: 
+
+-------------Round number: 2 -------------
+
+
+2024-06-06 08:47:58,436:INFO: Average Global Accurancy = 0.1038, Loss = 5340.01.
+2024-06-06 08:47:58,436:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:47:58,692:INFO: 
+
+-------------Round number: 3 -------------
+
+
+2024-06-06 08:47:59,062:INFO: Average Global Accurancy = 0.1010, Loss = 51480392.64.
+2024-06-06 08:47:59,062:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:47:59,318:INFO: 
+
+-------------Round number: 4 -------------
+
+
+2024-06-06 08:47:59,736:INFO: Average Global Accurancy = 0.1121, Loss = 76224324.56.
+2024-06-06 08:47:59,736:INFO: Best Global Accurancy = 0.1121, Loss = 76224324.56, Iter = 4.
+2024-06-06 08:47:59,992:INFO: 
+
+-------------Round number: 5 -------------
+
+
+2024-06-06 08:48:00,412:INFO: Average Global Accurancy = 0.1279, Loss = 40411688.49.
+2024-06-06 08:48:00,412:INFO: Best Global Accurancy = 0.1279, Loss = 40411688.49, Iter = 5.
+2024-06-06 08:48:00,668:INFO: 
+
+-------------Round number: 6 -------------
+
+
+2024-06-06 08:48:01,087:INFO: Average Global Accurancy = 0.1299, Loss = 37825412.10.
+2024-06-06 08:48:01,087:INFO: Best Global Accurancy = 0.1299, Loss = 37825412.10, Iter = 6.
+2024-06-06 08:48:01,343:INFO: 
+
+-------------Round number: 7 -------------
+
+
+2024-06-06 08:48:01,759:INFO: Average Global Accurancy = 0.1557, Loss = 11753215.61.
+2024-06-06 08:48:01,759:INFO: Best Global Accurancy = 0.1557, Loss = 11753215.61, Iter = 7.
+2024-06-06 08:48:02,015:INFO: 
+
+-------------Round number: 8 -------------
+
+
+2024-06-06 08:48:02,386:INFO: Average Global Accurancy = 0.1117, Loss = 297888988.59.
+2024-06-06 08:48:02,386:INFO: Best Global Accurancy = 0.1557, Loss = 11753215.61, Iter = 7.
+2024-06-06 08:48:02,641:INFO: 
+
+-------------Round number: 9 -------------
+
+
+2024-06-06 08:48:03,012:INFO: Average Global Accurancy = 0.1190, Loss = 906161448.98.
+2024-06-06 08:48:03,012:INFO: Best Global Accurancy = 0.1557, Loss = 11753215.61, Iter = 7.
+2024-06-06 08:48:03,268:INFO: 
+
+-------------Round number: 10 -------------
+
+
+2024-06-06 08:48:03,638:INFO: Average Global Accurancy = 0.1362, Loss = 610536106.63.
+2024-06-06 08:48:03,638:INFO: Best Global Accurancy = 0.1557, Loss = 11753215.61, Iter = 7.
+2024-06-06 08:48:03,894:INFO: 
+
+-------------Round number: 11 -------------
+
+
+2024-06-06 08:48:04,310:INFO: Average Global Accurancy = 0.1620, Loss = 530044030.90.
+2024-06-06 08:48:04,310:INFO: Best Global Accurancy = 0.1620, Loss = 530044030.90, Iter = 11.
+2024-06-06 08:48:04,566:INFO: 
+
+-------------Round number: 12 -------------
+
+
+2024-06-06 08:48:04,982:INFO: Average Global Accurancy = 0.1993, Loss = 236405628.36.
+2024-06-06 08:48:04,982:INFO: Best Global Accurancy = 0.1993, Loss = 236405628.36, Iter = 12.
+2024-06-06 08:48:05,239:INFO: 
+
+-------------Round number: 13 -------------
+
+
+2024-06-06 08:48:05,610:INFO: Average Global Accurancy = 0.1668, Loss = 207355049.69.
+2024-06-06 08:48:05,610:INFO: Best Global Accurancy = 0.1993, Loss = 236405628.36, Iter = 12.
+2024-06-06 08:48:05,866:INFO: 
+
+-------------Round number: 14 -------------
+
+
+2024-06-06 08:48:06,283:INFO: Average Global Accurancy = 0.2314, Loss = 29928.13.
+2024-06-06 08:48:06,283:INFO: Best Global Accurancy = 0.2314, Loss = 29928.13, Iter = 14.
+2024-06-06 08:48:06,539:INFO: 
+
+-------------Round number: 15 -------------
+
+
+2024-06-06 08:48:06,910:INFO: Average Global Accurancy = 0.2018, Loss = 53047.19.
+2024-06-06 08:48:06,910:INFO: Best Global Accurancy = 0.2314, Loss = 29928.13, Iter = 14.
+2024-06-06 08:48:07,166:INFO: 
+
+-------------Round number: 16 -------------
+
+
+2024-06-06 08:48:07,582:INFO: Average Global Accurancy = 0.2661, Loss = 45411.19.
+2024-06-06 08:48:07,582:INFO: Best Global Accurancy = 0.2661, Loss = 45411.19, Iter = 16.
+2024-06-06 08:48:07,838:INFO: 
+
+-------------Round number: 17 -------------
+
+
+2024-06-06 08:48:08,209:INFO: Average Global Accurancy = 0.2303, Loss = 31254.65.
+2024-06-06 08:48:08,209:INFO: Best Global Accurancy = 0.2661, Loss = 45411.19, Iter = 16.
+2024-06-06 08:48:08,464:INFO: 
+
+-------------Round number: 18 -------------
+
+
+2024-06-06 08:48:08,835:INFO: Average Global Accurancy = 0.2660, Loss = 2.42.
+2024-06-06 08:48:08,835:INFO: Best Global Accurancy = 0.2661, Loss = 45411.19, Iter = 16.
+2024-06-06 08:48:09,091:INFO: 
+
+-------------Round number: 19 -------------
+
+
+2024-06-06 08:48:09,463:INFO: Average Global Accurancy = 0.2608, Loss = 3.02.
+2024-06-06 08:48:09,463:INFO: Best Global Accurancy = 0.2661, Loss = 45411.19, Iter = 16.
+2024-06-06 08:48:09,720:INFO: 
+
+-------------Round number: 20 -------------
+
+
+2024-06-06 08:48:10,136:INFO: Average Global Accurancy = 0.2836, Loss = 2.48.
+2024-06-06 08:48:10,136:INFO: Best Global Accurancy = 0.2836, Loss = 2.48, Iter = 20.
+2024-06-06 08:48:10,393:INFO: 
+
+-------------Round number: 21 -------------
+
+
+2024-06-06 08:48:10,764:INFO: Average Global Accurancy = 0.2818, Loss = 3.06.
+2024-06-06 08:48:10,764:INFO: Best Global Accurancy = 0.2836, Loss = 2.48, Iter = 20.
+2024-06-06 08:48:11,020:INFO: 
+
+-------------Round number: 22 -------------
+
+
+2024-06-06 08:48:11,438:INFO: Average Global Accurancy = 0.3176, Loss = 2.54.
+2024-06-06 08:48:11,438:INFO: Best Global Accurancy = 0.3176, Loss = 2.54, Iter = 22.
+2024-06-06 08:48:11,694:INFO: 
+
+-------------Round number: 23 -------------
+
+
+2024-06-06 08:48:12,065:INFO: Average Global Accurancy = 0.2988, Loss = 2.48.
+2024-06-06 08:48:12,065:INFO: Best Global Accurancy = 0.3176, Loss = 2.54, Iter = 22.
+2024-06-06 08:48:12,321:INFO: 
+
+-------------Round number: 24 -------------
+
+
+2024-06-06 08:48:12,692:INFO: Average Global Accurancy = 0.2558, Loss = 2.76.
+2024-06-06 08:48:12,692:INFO: Best Global Accurancy = 0.3176, Loss = 2.54, Iter = 22.
+2024-06-06 08:48:12,948:INFO: 
+
+-------------Round number: 25 -------------
+
+
+2024-06-06 08:48:13,319:INFO: Average Global Accurancy = 0.3116, Loss = 2.47.
+2024-06-06 08:48:13,319:INFO: Best Global Accurancy = 0.3176, Loss = 2.54, Iter = 22.
+2024-06-06 08:48:13,575:INFO: 
+
+-------------Round number: 26 -------------
+
+
+2024-06-06 08:48:13,946:INFO: Average Global Accurancy = 0.3058, Loss = 2.43.
+2024-06-06 08:48:13,946:INFO: Best Global Accurancy = 0.3176, Loss = 2.54, Iter = 22.
+2024-06-06 08:48:14,202:INFO: 
+
+-------------Round number: 27 -------------
+
+
+2024-06-06 08:48:14,572:INFO: Average Global Accurancy = 0.3058, Loss = 2.25.
+2024-06-06 08:48:14,572:INFO: Best Global Accurancy = 0.3176, Loss = 2.54, Iter = 22.
+2024-06-06 08:48:14,827:INFO: 
+
+-------------Round number: 28 -------------
+
+
+2024-06-06 08:48:15,198:INFO: Average Global Accurancy = 0.2977, Loss = 2.05.
+2024-06-06 08:48:15,198:INFO: Best Global Accurancy = 0.3176, Loss = 2.54, Iter = 22.
+2024-06-06 08:48:15,454:INFO: 
+
+-------------Round number: 29 -------------
+
+
+2024-06-06 08:48:15,875:INFO: Average Global Accurancy = 0.3538, Loss = 1.74.
+2024-06-06 08:48:15,876:INFO: Best Global Accurancy = 0.3538, Loss = 1.74, Iter = 29.
+2024-06-06 08:48:16,131:INFO: 
+
+-------------Round number: 30 -------------
+
+
+2024-06-06 08:48:16,502:INFO: Average Global Accurancy = 0.3368, Loss = 1.80.
+2024-06-06 08:48:16,502:INFO: Best Global Accurancy = 0.3538, Loss = 1.74, Iter = 29.
+2024-06-06 08:48:16,757:INFO: 
+
+-------------Round number: 31 -------------
+
+
+2024-06-06 08:48:17,173:INFO: Average Global Accurancy = 0.3799, Loss = 1.67.
+2024-06-06 08:48:17,173:INFO: Best Global Accurancy = 0.3799, Loss = 1.67, Iter = 31.
+2024-06-06 08:48:17,429:INFO: 
+
+-------------Round number: 32 -------------
+
+
+2024-06-06 08:48:17,842:INFO: Average Global Accurancy = 0.3870, Loss = 1.66.
+2024-06-06 08:48:17,842:INFO: Best Global Accurancy = 0.3870, Loss = 1.66, Iter = 32.
+2024-06-06 08:48:18,098:INFO: 
+
+-------------Round number: 33 -------------
+
+
+2024-06-06 08:48:18,469:INFO: Average Global Accurancy = 0.3850, Loss = 1.65.
+2024-06-06 08:48:18,469:INFO: Best Global Accurancy = 0.3870, Loss = 1.66, Iter = 32.
+2024-06-06 08:48:18,724:INFO: 
+
+-------------Round number: 34 -------------
+
+
+2024-06-06 08:48:19,094:INFO: Average Global Accurancy = 0.3857, Loss = 1.65.
+2024-06-06 08:48:19,094:INFO: Best Global Accurancy = 0.3870, Loss = 1.66, Iter = 32.
+2024-06-06 08:48:19,350:INFO: 
+
+-------------Round number: 35 -------------
+
+
+2024-06-06 08:48:19,767:INFO: Average Global Accurancy = 0.3882, Loss = 1.67.
+2024-06-06 08:48:19,767:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:20,023:INFO: 
+
+-------------Round number: 36 -------------
+
+
+2024-06-06 08:48:20,393:INFO: Average Global Accurancy = 0.3668, Loss = 1.74.
+2024-06-06 08:48:20,393:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:20,648:INFO: 
+
+-------------Round number: 37 -------------
+
+
+2024-06-06 08:48:21,019:INFO: Average Global Accurancy = 0.3508, Loss = 1.82.
+2024-06-06 08:48:21,019:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:21,275:INFO: 
+
+-------------Round number: 38 -------------
+
+
+2024-06-06 08:48:21,646:INFO: Average Global Accurancy = 0.3580, Loss = 1.80.
+2024-06-06 08:48:21,646:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:21,902:INFO: 
+
+-------------Round number: 39 -------------
+
+
+2024-06-06 08:48:22,272:INFO: Average Global Accurancy = 0.3596, Loss = 1.85.
+2024-06-06 08:48:22,272:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:22,528:INFO: 
+
+-------------Round number: 40 -------------
+
+
+2024-06-06 08:48:22,898:INFO: Average Global Accurancy = 0.3487, Loss = 1.92.
+2024-06-06 08:48:22,899:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:23,154:INFO: 
+
+-------------Round number: 41 -------------
+
+
+2024-06-06 08:48:23,525:INFO: Average Global Accurancy = 0.3485, Loss = 1.92.
+2024-06-06 08:48:23,525:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:23,781:INFO: 
+
+-------------Round number: 42 -------------
+
+
+2024-06-06 08:48:24,151:INFO: Average Global Accurancy = 0.3641, Loss = 1.79.
+2024-06-06 08:48:24,151:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:24,408:INFO: 
+
+-------------Round number: 43 -------------
+
+
+2024-06-06 08:48:24,779:INFO: Average Global Accurancy = 0.3777, Loss = 1.75.
+2024-06-06 08:48:24,779:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:25,035:INFO: 
+
+-------------Round number: 44 -------------
+
+
+2024-06-06 08:48:25,405:INFO: Average Global Accurancy = 0.3424, Loss = 1.91.
+2024-06-06 08:48:25,405:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:25,662:INFO: 
+
+-------------Round number: 45 -------------
+
+
+2024-06-06 08:48:26,032:INFO: Average Global Accurancy = 0.3366, Loss = 1.96.
+2024-06-06 08:48:26,032:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:26,287:INFO: 
+
+-------------Round number: 46 -------------
+
+
+2024-06-06 08:48:26,657:INFO: Average Global Accurancy = 0.3487, Loss = 1.78.
+2024-06-06 08:48:26,657:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:26,914:INFO: 
+
+-------------Round number: 47 -------------
+
+
+2024-06-06 08:48:27,285:INFO: Average Global Accurancy = 0.3649, Loss = 1.83.
+2024-06-06 08:48:27,285:INFO: Best Global Accurancy = 0.3882, Loss = 1.67, Iter = 35.
+2024-06-06 08:48:27,541:INFO: 
+
+-------------Round number: 48 -------------
+
+
+2024-06-06 08:48:27,960:INFO: Average Global Accurancy = 0.3943, Loss = 1.66.
+2024-06-06 08:48:27,960:INFO: Best Global Accurancy = 0.3943, Loss = 1.66, Iter = 48.
+2024-06-06 08:48:28,217:INFO: 
+
+-------------Round number: 49 -------------
+
+
+2024-06-06 08:48:28,631:INFO: Average Global Accurancy = 0.4197, Loss = 1.57.
+2024-06-06 08:48:28,631:INFO: Best Global Accurancy = 0.4197, Loss = 1.57, Iter = 49.
+2024-06-06 08:48:28,888:INFO: 
+
+-------------Round number: 50 -------------
+
+
+2024-06-06 08:48:29,303:INFO: Average Global Accurancy = 0.4365, Loss = 1.51.
+2024-06-06 08:48:29,303:INFO: Best Global Accurancy = 0.4365, Loss = 1.51, Iter = 50.
+2024-06-06 08:48:29,559:INFO: 
+
+-------------Round number: 51 -------------
+
+
+2024-06-06 08:48:29,930:INFO: Average Global Accurancy = 0.4049, Loss = 1.62.
+2024-06-06 08:48:29,930:INFO: Best Global Accurancy = 0.4365, Loss = 1.51, Iter = 50.
+2024-06-06 08:48:30,186:INFO: 
+
+-------------Round number: 52 -------------
+
+
+2024-06-06 08:48:30,600:INFO: Average Global Accurancy = 0.4424, Loss = 1.51.
+2024-06-06 08:48:30,600:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:30,857:INFO: 
+
+-------------Round number: 53 -------------
+
+
+2024-06-06 08:48:31,227:INFO: Average Global Accurancy = 0.4325, Loss = 1.54.
+2024-06-06 08:48:31,227:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:31,484:INFO: 
+
+-------------Round number: 54 -------------
+
+
+2024-06-06 08:48:31,855:INFO: Average Global Accurancy = 0.4377, Loss = 1.54.
+2024-06-06 08:48:31,855:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:32,110:INFO: 
+
+-------------Round number: 55 -------------
+
+
+2024-06-06 08:48:32,480:INFO: Average Global Accurancy = 0.3939, Loss = 1.69.
+2024-06-06 08:48:32,480:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:32,737:INFO: 
+
+-------------Round number: 56 -------------
+
+
+2024-06-06 08:48:33,108:INFO: Average Global Accurancy = 0.3964, Loss = 1.72.
+2024-06-06 08:48:33,108:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:33,363:INFO: 
+
+-------------Round number: 57 -------------
+
+
+2024-06-06 08:48:33,733:INFO: Average Global Accurancy = 0.4254, Loss = 1.58.
+2024-06-06 08:48:33,733:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:33,989:INFO: 
+
+-------------Round number: 58 -------------
+
+
+2024-06-06 08:48:34,361:INFO: Average Global Accurancy = 0.4279, Loss = 1.63.
+2024-06-06 08:48:34,361:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:34,617:INFO: 
+
+-------------Round number: 59 -------------
+
+
+2024-06-06 08:48:35,041:INFO: Average Global Accurancy = 0.4096, Loss = 1.69.
+2024-06-06 08:48:35,041:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:35,297:INFO: 
+
+-------------Round number: 60 -------------
+
+
+2024-06-06 08:48:35,668:INFO: Average Global Accurancy = 0.4243, Loss = 1.62.
+2024-06-06 08:48:35,668:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:35,923:INFO: 
+
+-------------Round number: 61 -------------
+
+
+2024-06-06 08:48:36,293:INFO: Average Global Accurancy = 0.4127, Loss = 1.65.
+2024-06-06 08:48:36,293:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:36,549:INFO: 
+
+-------------Round number: 62 -------------
+
+
+2024-06-06 08:48:36,921:INFO: Average Global Accurancy = 0.4106, Loss = 1.69.
+2024-06-06 08:48:36,922:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:37,177:INFO: 
+
+-------------Round number: 63 -------------
+
+
+2024-06-06 08:48:37,547:INFO: Average Global Accurancy = 0.4262, Loss = 1.65.
+2024-06-06 08:48:37,548:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:37,802:INFO: 
+
+-------------Round number: 64 -------------
+
+
+2024-06-06 08:48:38,173:INFO: Average Global Accurancy = 0.4379, Loss = 1.55.
+2024-06-06 08:48:38,173:INFO: Best Global Accurancy = 0.4424, Loss = 1.51, Iter = 52.
+2024-06-06 08:48:38,429:INFO: 
+
+-------------Round number: 65 -------------
+
+
+2024-06-06 08:48:38,848:INFO: Average Global Accurancy = 0.4745, Loss = 1.46.
+2024-06-06 08:48:38,848:INFO: Best Global Accurancy = 0.4745, Loss = 1.46, Iter = 65.
+2024-06-06 08:48:39,104:INFO: 
+
+-------------Round number: 66 -------------
+
+
+2024-06-06 08:48:39,476:INFO: Average Global Accurancy = 0.4515, Loss = 1.55.
+2024-06-06 08:48:39,476:INFO: Best Global Accurancy = 0.4745, Loss = 1.46, Iter = 65.
+2024-06-06 08:48:39,731:INFO: 
+
+-------------Round number: 67 -------------
+
+
+2024-06-06 08:48:40,102:INFO: Average Global Accurancy = 0.4516, Loss = 1.51.
+2024-06-06 08:48:40,102:INFO: Best Global Accurancy = 0.4745, Loss = 1.46, Iter = 65.
+2024-06-06 08:48:40,358:INFO: 
+
+-------------Round number: 68 -------------
+
+
+2024-06-06 08:48:40,776:INFO: Average Global Accurancy = 0.5035, Loss = 1.36.
+2024-06-06 08:48:40,776:INFO: Best Global Accurancy = 0.5035, Loss = 1.36, Iter = 68.
+2024-06-06 08:48:41,032:INFO: 
+
+-------------Round number: 69 -------------
+
+
+2024-06-06 08:48:41,403:INFO: Average Global Accurancy = 0.4668, Loss = 1.51.
+2024-06-06 08:48:41,403:INFO: Best Global Accurancy = 0.5035, Loss = 1.36, Iter = 68.
+2024-06-06 08:48:41,659:INFO: 
+
+-------------Round number: 70 -------------
+
+
+2024-06-06 08:48:42,030:INFO: Average Global Accurancy = 0.4905, Loss = 1.39.
+2024-06-06 08:48:42,030:INFO: Best Global Accurancy = 0.5035, Loss = 1.36, Iter = 68.
+2024-06-06 08:48:42,286:INFO: 
+
+-------------Round number: 71 -------------
+
+
+2024-06-06 08:48:42,657:INFO: Average Global Accurancy = 0.4728, Loss = 1.43.
+2024-06-06 08:48:42,657:INFO: Best Global Accurancy = 0.5035, Loss = 1.36, Iter = 68.
+2024-06-06 08:48:42,913:INFO: 
+
+-------------Round number: 72 -------------
+
+
+2024-06-06 08:48:43,284:INFO: Average Global Accurancy = 0.4797, Loss = 1.45.
+2024-06-06 08:48:43,284:INFO: Best Global Accurancy = 0.5035, Loss = 1.36, Iter = 68.
+2024-06-06 08:48:43,540:INFO: 
+
+-------------Round number: 73 -------------
+
+
+2024-06-06 08:48:43,954:INFO: Average Global Accurancy = 0.5134, Loss = 1.39.
+2024-06-06 08:48:43,954:INFO: Best Global Accurancy = 0.5134, Loss = 1.39, Iter = 73.
+2024-06-06 08:48:44,210:INFO: 
+
+-------------Round number: 74 -------------
+
+
+2024-06-06 08:48:44,581:INFO: Average Global Accurancy = 0.4958, Loss = 1.38.
+2024-06-06 08:48:44,581:INFO: Best Global Accurancy = 0.5134, Loss = 1.39, Iter = 73.
+2024-06-06 08:48:44,837:INFO: 
+
+-------------Round number: 75 -------------
+
+
+2024-06-06 08:48:45,207:INFO: Average Global Accurancy = 0.4744, Loss = 1.44.
+2024-06-06 08:48:45,207:INFO: Best Global Accurancy = 0.5134, Loss = 1.39, Iter = 73.
+2024-06-06 08:48:45,463:INFO: 
+
+-------------Round number: 76 -------------
+
+
+2024-06-06 08:48:45,833:INFO: Average Global Accurancy = 0.4943, Loss = 1.41.
+2024-06-06 08:48:45,833:INFO: Best Global Accurancy = 0.5134, Loss = 1.39, Iter = 73.
+2024-06-06 08:48:46,088:INFO: 
+
+-------------Round number: 77 -------------
+
+
+2024-06-06 08:48:46,459:INFO: Average Global Accurancy = 0.4925, Loss = 1.43.
+2024-06-06 08:48:46,459:INFO: Best Global Accurancy = 0.5134, Loss = 1.39, Iter = 73.
+2024-06-06 08:48:46,715:INFO: 
+
+-------------Round number: 78 -------------
+
+
+2024-06-06 08:48:47,134:INFO: Average Global Accurancy = 0.5174, Loss = 1.36.
+2024-06-06 08:48:47,134:INFO: Best Global Accurancy = 0.5174, Loss = 1.36, Iter = 78.
+2024-06-06 08:48:47,390:INFO: 
+
+-------------Round number: 79 -------------
+
+
+2024-06-06 08:48:47,812:INFO: Average Global Accurancy = 0.5252, Loss = 1.30.
+2024-06-06 08:48:47,812:INFO: Best Global Accurancy = 0.5252, Loss = 1.30, Iter = 79.
+2024-06-06 08:48:48,068:INFO: 
+
+-------------Round number: 80 -------------
+
+
+2024-06-06 08:48:48,439:INFO: Average Global Accurancy = 0.5217, Loss = 1.34.
+2024-06-06 08:48:48,439:INFO: Best Global Accurancy = 0.5252, Loss = 1.30, Iter = 79.
+2024-06-06 08:48:48,695:INFO: 
+
+-------------Round number: 81 -------------
+
+
+2024-06-06 08:48:49,111:INFO: Average Global Accurancy = 0.5619, Loss = 1.23.
+2024-06-06 08:48:49,111:INFO: Best Global Accurancy = 0.5619, Loss = 1.23, Iter = 81.
+2024-06-06 08:48:49,367:INFO: 
+
+-------------Round number: 82 -------------
+
+
+2024-06-06 08:48:49,738:INFO: Average Global Accurancy = 0.5555, Loss = 1.25.
+2024-06-06 08:48:49,738:INFO: Best Global Accurancy = 0.5619, Loss = 1.23, Iter = 81.
+2024-06-06 08:48:49,994:INFO: 
+
+-------------Round number: 83 -------------
+
+
+2024-06-06 08:48:50,365:INFO: Average Global Accurancy = 0.5506, Loss = 1.25.
+2024-06-06 08:48:50,366:INFO: Best Global Accurancy = 0.5619, Loss = 1.23, Iter = 81.
+2024-06-06 08:48:50,621:INFO: 
+
+-------------Round number: 84 -------------
+
+
+2024-06-06 08:48:50,992:INFO: Average Global Accurancy = 0.5330, Loss = 1.27.
+2024-06-06 08:48:50,992:INFO: Best Global Accurancy = 0.5619, Loss = 1.23, Iter = 81.
+2024-06-06 08:48:51,248:INFO: 
+
+-------------Round number: 85 -------------
+
+
+2024-06-06 08:48:51,619:INFO: Average Global Accurancy = 0.5360, Loss = 1.31.
+2024-06-06 08:48:51,619:INFO: Best Global Accurancy = 0.5619, Loss = 1.23, Iter = 81.
+2024-06-06 08:48:51,874:INFO: 
+
+-------------Round number: 86 -------------
+
+
+2024-06-06 08:48:52,244:INFO: Average Global Accurancy = 0.5405, Loss = 1.27.
+2024-06-06 08:48:52,244:INFO: Best Global Accurancy = 0.5619, Loss = 1.23, Iter = 81.
+2024-06-06 08:48:52,499:INFO: 
+
+-------------Round number: 87 -------------
+
+
+2024-06-06 08:48:52,870:INFO: Average Global Accurancy = 0.5403, Loss = 1.28.
+2024-06-06 08:48:52,870:INFO: Best Global Accurancy = 0.5619, Loss = 1.23, Iter = 81.
+2024-06-06 08:48:53,125:INFO: 
+
+-------------Round number: 88 -------------
+
+
+2024-06-06 08:48:53,496:INFO: Average Global Accurancy = 0.5120, Loss = 1.33.
+2024-06-06 08:48:53,496:INFO: Best Global Accurancy = 0.5619, Loss = 1.23, Iter = 81.
+2024-06-06 08:48:53,752:INFO: 
+
+-------------Round number: 89 -------------
+
+
+2024-06-06 08:48:54,170:INFO: Average Global Accurancy = 0.5655, Loss = 1.19.
+2024-06-06 08:48:54,170:INFO: Best Global Accurancy = 0.5655, Loss = 1.19, Iter = 89.
+2024-06-06 08:48:54,426:INFO: 
+
+-------------Round number: 90 -------------
+
+
+2024-06-06 08:48:54,797:INFO: Average Global Accurancy = 0.5501, Loss = 1.24.
+2024-06-06 08:48:54,797:INFO: Best Global Accurancy = 0.5655, Loss = 1.19, Iter = 89.
+2024-06-06 08:48:55,053:INFO: 
+
+-------------Round number: 91 -------------
+
+
+2024-06-06 08:48:55,424:INFO: Average Global Accurancy = 0.5513, Loss = 1.25.
+2024-06-06 08:48:55,424:INFO: Best Global Accurancy = 0.5655, Loss = 1.19, Iter = 89.
+2024-06-06 08:48:55,680:INFO: 
+
+-------------Round number: 92 -------------
+
+
+2024-06-06 08:48:56,051:INFO: Average Global Accurancy = 0.5113, Loss = 1.31.
+2024-06-06 08:48:56,051:INFO: Best Global Accurancy = 0.5655, Loss = 1.19, Iter = 89.
+2024-06-06 08:48:56,307:INFO: 
+
+-------------Round number: 93 -------------
+
+
+2024-06-06 08:48:56,724:INFO: Average Global Accurancy = 0.5759, Loss = 1.18.
+2024-06-06 08:48:56,724:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:48:56,980:INFO: 
+
+-------------Round number: 94 -------------
+
+
+2024-06-06 08:48:57,351:INFO: Average Global Accurancy = 0.5570, Loss = 1.22.
+2024-06-06 08:48:57,351:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:48:57,606:INFO: 
+
+-------------Round number: 95 -------------
+
+
+2024-06-06 08:48:57,976:INFO: Average Global Accurancy = 0.5476, Loss = 1.30.
+2024-06-06 08:48:57,977:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:48:58,232:INFO: 
+
+-------------Round number: 96 -------------
+
+
+2024-06-06 08:48:58,602:INFO: Average Global Accurancy = 0.5734, Loss = 1.18.
+2024-06-06 08:48:58,602:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:48:58,858:INFO: 
+
+-------------Round number: 97 -------------
+
+
+2024-06-06 08:48:59,229:INFO: Average Global Accurancy = 0.5727, Loss = 1.19.
+2024-06-06 08:48:59,229:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:48:59,484:INFO: 
+
+-------------Round number: 98 -------------
+
+
+2024-06-06 08:48:59,855:INFO: Average Global Accurancy = 0.5533, Loss = 1.24.
+2024-06-06 08:48:59,855:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:49:00,110:INFO: 
+
+-------------Round number: 99 -------------
+
+
+2024-06-06 08:49:00,481:INFO: Average Global Accurancy = 0.5704, Loss = 1.20.
+2024-06-06 08:49:00,481:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:49:00,736:INFO: 
+
+-------------Round number: 100 -------------
+
+
+2024-06-06 08:49:01,107:INFO: Average Global Accurancy = 0.5613, Loss = 1.20.
+2024-06-06 08:49:01,107:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:49:01,362:INFO: 
+
+-------------Round number: 101 -------------
+
+
+2024-06-06 08:49:01,733:INFO: Average Global Accurancy = 0.5289, Loss = 1.34.
+2024-06-06 08:49:01,733:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:49:01,988:INFO: 
+
+-------------Round number: 102 -------------
+
+
+2024-06-06 08:49:02,358:INFO: Average Global Accurancy = 0.5646, Loss = 1.23.
+2024-06-06 08:49:02,359:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:49:02,615:INFO: 
+
+-------------Round number: 103 -------------
+
+
+2024-06-06 08:49:02,986:INFO: Average Global Accurancy = 0.5107, Loss = 1.41.
+2024-06-06 08:49:02,986:INFO: Best Global Accurancy = 0.5759, Loss = 1.18, Iter = 93.
+2024-06-06 08:49:03,241:INFO: 
+
+-------------Round number: 104 -------------
+
+
+2024-06-06 08:49:03,656:INFO: Average Global Accurancy = 0.5965, Loss = 1.14.
+2024-06-06 08:49:03,656:INFO: Best Global Accurancy = 0.5965, Loss = 1.14, Iter = 104.
+2024-06-06 08:49:03,911:INFO: 
+
+-------------Round number: 105 -------------
+
+
+2024-06-06 08:49:04,283:INFO: Average Global Accurancy = 0.5803, Loss = 1.18.
+2024-06-06 08:49:04,283:INFO: Best Global Accurancy = 0.5965, Loss = 1.14, Iter = 104.
+2024-06-06 08:49:04,538:INFO: 
+
+-------------Round number: 106 -------------
+
+
+2024-06-06 08:49:04,954:INFO: Average Global Accurancy = 0.6133, Loss = 1.10.
+2024-06-06 08:49:04,954:INFO: Best Global Accurancy = 0.6133, Loss = 1.10, Iter = 106.
+2024-06-06 08:49:05,210:INFO: 
+
+-------------Round number: 107 -------------
+
+
+2024-06-06 08:49:05,581:INFO: Average Global Accurancy = 0.6122, Loss = 1.09.
+2024-06-06 08:49:05,581:INFO: Best Global Accurancy = 0.6133, Loss = 1.10, Iter = 106.
+2024-06-06 08:49:05,836:INFO: 
+
+-------------Round number: 108 -------------
+
+
+2024-06-06 08:49:06,207:INFO: Average Global Accurancy = 0.5244, Loss = 1.31.
+2024-06-06 08:49:06,208:INFO: Best Global Accurancy = 0.6133, Loss = 1.10, Iter = 106.
+2024-06-06 08:49:06,463:INFO: 
+
+-------------Round number: 109 -------------
+
+
+2024-06-06 08:49:06,834:INFO: Average Global Accurancy = 0.6060, Loss = 1.13.
+2024-06-06 08:49:06,834:INFO: Best Global Accurancy = 0.6133, Loss = 1.10, Iter = 106.
+2024-06-06 08:49:07,090:INFO: 
+
+-------------Round number: 110 -------------
+
+
+2024-06-06 08:49:07,460:INFO: Average Global Accurancy = 0.6058, Loss = 1.13.
+2024-06-06 08:49:07,460:INFO: Best Global Accurancy = 0.6133, Loss = 1.10, Iter = 106.
+2024-06-06 08:49:07,716:INFO: 
+
+-------------Round number: 111 -------------
+
+
+2024-06-06 08:49:08,134:INFO: Average Global Accurancy = 0.6255, Loss = 1.06.
+2024-06-06 08:49:08,134:INFO: Best Global Accurancy = 0.6255, Loss = 1.06, Iter = 111.
+2024-06-06 08:49:08,389:INFO: 
+
+-------------Round number: 112 -------------
+
+
+2024-06-06 08:49:08,760:INFO: Average Global Accurancy = 0.6190, Loss = 1.06.
+2024-06-06 08:49:08,760:INFO: Best Global Accurancy = 0.6255, Loss = 1.06, Iter = 111.
+2024-06-06 08:49:09,015:INFO: 
+
+-------------Round number: 113 -------------
+
+
+2024-06-06 08:49:09,435:INFO: Average Global Accurancy = 0.6264, Loss = 1.06.
+2024-06-06 08:49:09,435:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:09,690:INFO: 
+
+-------------Round number: 114 -------------
+
+
+2024-06-06 08:49:10,061:INFO: Average Global Accurancy = 0.6038, Loss = 1.11.
+2024-06-06 08:49:10,061:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:10,318:INFO: 
+
+-------------Round number: 115 -------------
+
+
+2024-06-06 08:49:10,689:INFO: Average Global Accurancy = 0.6064, Loss = 1.10.
+2024-06-06 08:49:10,689:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:10,944:INFO: 
+
+-------------Round number: 116 -------------
+
+
+2024-06-06 08:49:11,315:INFO: Average Global Accurancy = 0.6168, Loss = 1.09.
+2024-06-06 08:49:11,315:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:11,571:INFO: 
+
+-------------Round number: 117 -------------
+
+
+2024-06-06 08:49:11,942:INFO: Average Global Accurancy = 0.6021, Loss = 1.14.
+2024-06-06 08:49:11,942:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:12,197:INFO: 
+
+-------------Round number: 118 -------------
+
+
+2024-06-06 08:49:12,568:INFO: Average Global Accurancy = 0.5880, Loss = 1.18.
+2024-06-06 08:49:12,568:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:12,824:INFO: 
+
+-------------Round number: 119 -------------
+
+
+2024-06-06 08:49:13,195:INFO: Average Global Accurancy = 0.6004, Loss = 1.12.
+2024-06-06 08:49:13,195:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:13,451:INFO: 
+
+-------------Round number: 120 -------------
+
+
+2024-06-06 08:49:13,822:INFO: Average Global Accurancy = 0.5897, Loss = 1.17.
+2024-06-06 08:49:13,822:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:14,077:INFO: 
+
+-------------Round number: 121 -------------
+
+
+2024-06-06 08:49:14,450:INFO: Average Global Accurancy = 0.6220, Loss = 1.06.
+2024-06-06 08:49:14,450:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:14,705:INFO: 
+
+-------------Round number: 122 -------------
+
+
+2024-06-06 08:49:15,076:INFO: Average Global Accurancy = 0.6183, Loss = 1.08.
+2024-06-06 08:49:15,076:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:15,331:INFO: 
+
+-------------Round number: 123 -------------
+
+
+2024-06-06 08:49:15,703:INFO: Average Global Accurancy = 0.5901, Loss = 1.16.
+2024-06-06 08:49:15,703:INFO: Best Global Accurancy = 0.6264, Loss = 1.06, Iter = 113.
+2024-06-06 08:49:15,959:INFO: 
+
+-------------Round number: 124 -------------
+
+
+2024-06-06 08:49:16,377:INFO: Average Global Accurancy = 0.6314, Loss = 1.05.
+2024-06-06 08:49:16,378:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:16,634:INFO: 
+
+-------------Round number: 125 -------------
+
+
+2024-06-06 08:49:17,005:INFO: Average Global Accurancy = 0.5883, Loss = 1.17.
+2024-06-06 08:49:17,005:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:17,262:INFO: 
+
+-------------Round number: 126 -------------
+
+
+2024-06-06 08:49:17,633:INFO: Average Global Accurancy = 0.5832, Loss = 1.22.
+2024-06-06 08:49:17,633:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:17,889:INFO: 
+
+-------------Round number: 127 -------------
+
+
+2024-06-06 08:49:18,260:INFO: Average Global Accurancy = 0.6131, Loss = 1.13.
+2024-06-06 08:49:18,261:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:18,516:INFO: 
+
+-------------Round number: 128 -------------
+
+
+2024-06-06 08:49:18,887:INFO: Average Global Accurancy = 0.5409, Loss = 1.41.
+2024-06-06 08:49:18,888:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:19,143:INFO: 
+
+-------------Round number: 129 -------------
+
+
+2024-06-06 08:49:19,516:INFO: Average Global Accurancy = 0.6086, Loss = 1.12.
+2024-06-06 08:49:19,516:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:19,772:INFO: 
+
+-------------Round number: 130 -------------
+
+
+2024-06-06 08:49:20,144:INFO: Average Global Accurancy = 0.6130, Loss = 1.12.
+2024-06-06 08:49:20,144:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:20,399:INFO: 
+
+-------------Round number: 131 -------------
+
+
+2024-06-06 08:49:20,771:INFO: Average Global Accurancy = 0.6043, Loss = 1.14.
+2024-06-06 08:49:20,771:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:21,027:INFO: 
+
+-------------Round number: 132 -------------
+
+
+2024-06-06 08:49:21,398:INFO: Average Global Accurancy = 0.5916, Loss = 1.18.
+2024-06-06 08:49:21,399:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:21,655:INFO: 
+
+-------------Round number: 133 -------------
+
+
+2024-06-06 08:49:22,026:INFO: Average Global Accurancy = 0.5750, Loss = 1.25.
+2024-06-06 08:49:22,026:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:22,282:INFO: 
+
+-------------Round number: 134 -------------
+
+
+2024-06-06 08:49:22,653:INFO: Average Global Accurancy = 0.6257, Loss = 1.08.
+2024-06-06 08:49:22,653:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:22,909:INFO: 
+
+-------------Round number: 135 -------------
+
+
+2024-06-06 08:49:23,279:INFO: Average Global Accurancy = 0.6022, Loss = 1.12.
+2024-06-06 08:49:23,279:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:23,535:INFO: 
+
+-------------Round number: 136 -------------
+
+
+2024-06-06 08:49:23,906:INFO: Average Global Accurancy = 0.6155, Loss = 1.08.
+2024-06-06 08:49:23,906:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:24,162:INFO: 
+
+-------------Round number: 137 -------------
+
+
+2024-06-06 08:49:24,534:INFO: Average Global Accurancy = 0.6139, Loss = 1.08.
+2024-06-06 08:49:24,534:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:24,790:INFO: 
+
+-------------Round number: 138 -------------
+
+
+2024-06-06 08:49:25,161:INFO: Average Global Accurancy = 0.5859, Loss = 1.18.
+2024-06-06 08:49:25,161:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:25,416:INFO: 
+
+-------------Round number: 139 -------------
+
+
+2024-06-06 08:49:25,787:INFO: Average Global Accurancy = 0.5912, Loss = 1.16.
+2024-06-06 08:49:25,787:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:26,043:INFO: 
+
+-------------Round number: 140 -------------
+
+
+2024-06-06 08:49:26,414:INFO: Average Global Accurancy = 0.5750, Loss = 1.19.
+2024-06-06 08:49:26,414:INFO: Best Global Accurancy = 0.6314, Loss = 1.05, Iter = 124.
+2024-06-06 08:49:26,670:INFO: 
+
+-------------Round number: 141 -------------
+
+
+2024-06-06 08:49:27,087:INFO: Average Global Accurancy = 0.6325, Loss = 1.04.
+2024-06-06 08:49:27,088:INFO: Best Global Accurancy = 0.6325, Loss = 1.04, Iter = 141.
+2024-06-06 08:49:27,343:INFO: 
+
+-------------Round number: 142 -------------
+
+
+2024-06-06 08:49:27,713:INFO: Average Global Accurancy = 0.6052, Loss = 1.12.
+2024-06-06 08:49:27,713:INFO: Best Global Accurancy = 0.6325, Loss = 1.04, Iter = 141.
+2024-06-06 08:49:27,969:INFO: 
+
+-------------Round number: 143 -------------
+
+
+2024-06-06 08:49:28,340:INFO: Average Global Accurancy = 0.5998, Loss = 1.13.
+2024-06-06 08:49:28,340:INFO: Best Global Accurancy = 0.6325, Loss = 1.04, Iter = 141.
+2024-06-06 08:49:28,596:INFO: 
+
+-------------Round number: 144 -------------
+
+
+2024-06-06 08:49:28,967:INFO: Average Global Accurancy = 0.6011, Loss = 1.18.
+2024-06-06 08:49:28,967:INFO: Best Global Accurancy = 0.6325, Loss = 1.04, Iter = 141.
+2024-06-06 08:49:29,223:INFO: 
+
+-------------Round number: 145 -------------
+
+
+2024-06-06 08:49:29,594:INFO: Average Global Accurancy = 0.5380, Loss = 1.40.
+2024-06-06 08:49:29,594:INFO: Best Global Accurancy = 0.6325, Loss = 1.04, Iter = 141.
+2024-06-06 08:49:29,851:INFO: 
+
+-------------Round number: 146 -------------
+
+
+2024-06-06 08:49:30,222:INFO: Average Global Accurancy = 0.5670, Loss = 1.27.
+2024-06-06 08:49:30,222:INFO: Best Global Accurancy = 0.6325, Loss = 1.04, Iter = 141.
+2024-06-06 08:49:30,478:INFO: 
+
+-------------Round number: 147 -------------
+
+
+2024-06-06 08:49:30,894:INFO: Average Global Accurancy = 0.6421, Loss = 1.05.
+2024-06-06 08:49:30,894:INFO: Best Global Accurancy = 0.6421, Loss = 1.05, Iter = 147.
+2024-06-06 08:49:31,150:INFO: 
+
+-------------Round number: 148 -------------
+
+
+2024-06-06 08:49:31,566:INFO: Average Global Accurancy = 0.6520, Loss = 1.01.
+2024-06-06 08:49:31,566:INFO: Best Global Accurancy = 0.6520, Loss = 1.01, Iter = 148.
+2024-06-06 08:49:31,823:INFO: 
+
+-------------Round number: 149 -------------
+
+
+2024-06-06 08:49:32,194:INFO: Average Global Accurancy = 0.6007, Loss = 1.20.
+2024-06-06 08:49:32,194:INFO: Best Global Accurancy = 0.6520, Loss = 1.01, Iter = 148.
+2024-06-06 08:49:49,170:INFO: ================================================================================
+2024-06-06 08:49:49,170:INFO: Summary of normal model training process:
+2024-06-06 08:49:49,170:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2024-06-06 08:49:49,170:INFO: model: resnet18
+2024-06-06 08:49:49,170:INFO: Device: cuda
+2024-06-06 08:49:49,170:INFO: Number of global rounds: 150
+2024-06-06 08:49:49,170:INFO: Number of local rounds: 10
+2024-06-06 08:49:49,170:INFO: Clents' learning rate: 0.1
+2024-06-06 08:49:49,170:INFO: ================================================================================
+2024-06-06 08:49:49,488:INFO: Users in total: 10
+2024-06-06 08:49:49,682:INFO: Number of users per round / total users: 10 / 10
+2024-06-06 08:49:49,682:INFO: Finished creating FedAvg server.
+2024-06-06 08:49:49,682:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2024-06-06 08:49:50,254:INFO: Average Global Accurancy = 0.1072, Loss = 2.30.
+2024-06-06 08:49:50,254:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:49:51,620:INFO: 
+
+-------------Round number: 1 -------------
+
+
+2024-06-06 08:49:51,986:INFO: Average Global Accurancy = 0.1004, Loss = 3.23.
+2024-06-06 08:49:51,986:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:49:53,308:INFO: 
+
+-------------Round number: 2 -------------
+
+
+2024-06-06 08:49:53,674:INFO: Average Global Accurancy = 0.1002, Loss = 66.06.
+2024-06-06 08:49:53,674:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-06 08:49:54,998:INFO: 
+
+-------------Round number: 3 -------------
+
+
+2024-06-06 08:49:55,407:INFO: Average Global Accurancy = 0.1435, Loss = 2.80.
+2024-06-06 08:49:55,407:INFO: Best Global Accurancy = 0.1435, Loss = 2.80, Iter = 3.
+2024-06-06 08:49:56,730:INFO: 
+
+-------------Round number: 4 -------------
+
+
+2024-06-06 08:49:57,140:INFO: Average Global Accurancy = 0.2337, Loss = 1.96.
+2024-06-06 08:49:57,140:INFO: Best Global Accurancy = 0.2337, Loss = 1.96, Iter = 4.
+2024-06-06 08:49:58,464:INFO: 
+
+-------------Round number: 5 -------------
+
+
+2024-06-06 08:49:58,872:INFO: Average Global Accurancy = 0.2676, Loss = 1.88.
+2024-06-06 08:49:58,872:INFO: Best Global Accurancy = 0.2676, Loss = 1.88, Iter = 5.
+2024-06-06 08:50:00,197:INFO: 
+
+-------------Round number: 6 -------------
+
+
+2024-06-06 08:50:00,607:INFO: Average Global Accurancy = 0.3210, Loss = 1.80.
+2024-06-06 08:50:00,607:INFO: Best Global Accurancy = 0.3210, Loss = 1.80, Iter = 6.
+2024-06-06 08:50:01,930:INFO: 
+
+-------------Round number: 7 -------------
+
+
+2024-06-06 08:50:02,340:INFO: Average Global Accurancy = 0.3443, Loss = 1.74.
+2024-06-06 08:50:02,340:INFO: Best Global Accurancy = 0.3443, Loss = 1.74, Iter = 7.
+2024-06-06 08:50:03,665:INFO: 
+
+-------------Round number: 8 -------------
+
+
+2024-06-06 08:50:04,074:INFO: Average Global Accurancy = 0.3594, Loss = 1.68.
+2024-06-06 08:50:04,074:INFO: Best Global Accurancy = 0.3594, Loss = 1.68, Iter = 8.
+2024-06-06 08:50:05,398:INFO: 
+
+-------------Round number: 9 -------------
+
+
+2024-06-06 08:50:05,805:INFO: Average Global Accurancy = 0.3915, Loss = 1.62.
+2024-06-06 08:50:05,805:INFO: Best Global Accurancy = 0.3915, Loss = 1.62, Iter = 9.
+2024-06-06 08:50:07,128:INFO: 
+
+-------------Round number: 10 -------------
+
+
+2024-06-06 08:50:07,537:INFO: Average Global Accurancy = 0.4008, Loss = 1.58.
+2024-06-06 08:50:07,537:INFO: Best Global Accurancy = 0.4008, Loss = 1.58, Iter = 10.
+2024-06-06 08:50:08,859:INFO: 
+
+-------------Round number: 11 -------------
+
+
+2024-06-06 08:50:09,266:INFO: Average Global Accurancy = 0.4235, Loss = 1.56.
+2024-06-06 08:50:09,266:INFO: Best Global Accurancy = 0.4235, Loss = 1.56, Iter = 11.
+2024-06-06 08:50:10,591:INFO: 
+
+-------------Round number: 12 -------------
+
+
+2024-06-06 08:50:11,003:INFO: Average Global Accurancy = 0.4286, Loss = 1.53.
+2024-06-06 08:50:11,003:INFO: Best Global Accurancy = 0.4286, Loss = 1.53, Iter = 12.
+2024-06-06 08:50:12,329:INFO: 
+
+-------------Round number: 13 -------------
+
+
+2024-06-06 08:50:12,740:INFO: Average Global Accurancy = 0.4434, Loss = 1.51.
+2024-06-06 08:50:12,740:INFO: Best Global Accurancy = 0.4434, Loss = 1.51, Iter = 13.
+2024-06-06 08:50:14,065:INFO: 
+
+-------------Round number: 14 -------------
+
+
+2024-06-06 08:50:14,482:INFO: Average Global Accurancy = 0.4498, Loss = 1.48.
+2024-06-06 08:50:14,482:INFO: Best Global Accurancy = 0.4498, Loss = 1.48, Iter = 14.
+2024-06-06 08:50:15,807:INFO: 
+
+-------------Round number: 15 -------------
+
+
+2024-06-06 08:50:16,217:INFO: Average Global Accurancy = 0.4587, Loss = 1.46.
+2024-06-06 08:50:16,217:INFO: Best Global Accurancy = 0.4587, Loss = 1.46, Iter = 15.
+2024-06-06 08:50:17,542:INFO: 
+
+-------------Round number: 16 -------------
+
+
+2024-06-06 08:50:17,952:INFO: Average Global Accurancy = 0.4668, Loss = 1.43.
+2024-06-06 08:50:17,952:INFO: Best Global Accurancy = 0.4668, Loss = 1.43, Iter = 16.
+2024-06-06 08:50:19,277:INFO: 
+
+-------------Round number: 17 -------------
+
+
+2024-06-06 08:50:19,684:INFO: Average Global Accurancy = 0.4789, Loss = 1.42.
+2024-06-06 08:50:19,684:INFO: Best Global Accurancy = 0.4789, Loss = 1.42, Iter = 17.
+2024-06-06 08:50:21,008:INFO: 
+
+-------------Round number: 18 -------------
+
+
+2024-06-06 08:50:21,417:INFO: Average Global Accurancy = 0.4790, Loss = 1.40.
+2024-06-06 08:50:21,417:INFO: Best Global Accurancy = 0.4790, Loss = 1.40, Iter = 18.
+2024-06-06 08:50:22,742:INFO: 
+
+-------------Round number: 19 -------------
+
+
+2024-06-06 08:50:23,152:INFO: Average Global Accurancy = 0.5002, Loss = 1.36.
+2024-06-06 08:50:23,152:INFO: Best Global Accurancy = 0.5002, Loss = 1.36, Iter = 19.
+2024-06-06 08:50:24,477:INFO: 
+
+-------------Round number: 20 -------------
+
+
+2024-06-06 08:50:24,843:INFO: Average Global Accurancy = 0.4987, Loss = 1.34.
+2024-06-06 08:50:24,843:INFO: Best Global Accurancy = 0.5002, Loss = 1.36, Iter = 19.
+2024-06-06 08:50:26,168:INFO: 
+
+-------------Round number: 21 -------------
+
+
+2024-06-06 08:50:26,578:INFO: Average Global Accurancy = 0.5020, Loss = 1.34.
+2024-06-06 08:50:26,578:INFO: Best Global Accurancy = 0.5020, Loss = 1.34, Iter = 21.
+2024-06-06 08:50:27,902:INFO: 
+
+-------------Round number: 22 -------------
+
+
+2024-06-06 08:50:28,312:INFO: Average Global Accurancy = 0.5243, Loss = 1.30.
+2024-06-06 08:50:28,312:INFO: Best Global Accurancy = 0.5243, Loss = 1.30, Iter = 22.
+2024-06-06 08:50:29,638:INFO: 
+
+-------------Round number: 23 -------------
+
+
+2024-06-06 08:50:30,049:INFO: Average Global Accurancy = 0.5337, Loss = 1.28.
+2024-06-06 08:50:30,049:INFO: Best Global Accurancy = 0.5337, Loss = 1.28, Iter = 23.
+2024-06-06 08:50:31,375:INFO: 
+
+-------------Round number: 24 -------------
+
+
+2024-06-06 08:50:31,787:INFO: Average Global Accurancy = 0.5402, Loss = 1.26.
+2024-06-06 08:50:31,787:INFO: Best Global Accurancy = 0.5402, Loss = 1.26, Iter = 24.
+2024-06-06 08:50:33,112:INFO: 
+
+-------------Round number: 25 -------------
+
+
+2024-06-06 08:50:33,522:INFO: Average Global Accurancy = 0.5449, Loss = 1.24.
+2024-06-06 08:50:33,522:INFO: Best Global Accurancy = 0.5449, Loss = 1.24, Iter = 25.
+2024-06-06 08:50:34,847:INFO: 
+
+-------------Round number: 26 -------------
+
+
+2024-06-06 08:50:35,258:INFO: Average Global Accurancy = 0.5657, Loss = 1.20.
+2024-06-06 08:50:35,258:INFO: Best Global Accurancy = 0.5657, Loss = 1.20, Iter = 26.
+2024-06-06 08:50:36,583:INFO: 
+
+-------------Round number: 27 -------------
+
+
+2024-06-06 08:50:36,999:INFO: Average Global Accurancy = 0.5767, Loss = 1.18.
+2024-06-06 08:50:36,999:INFO: Best Global Accurancy = 0.5767, Loss = 1.18, Iter = 27.
+2024-06-06 08:50:38,324:INFO: 
+
+-------------Round number: 28 -------------
+
+
+2024-06-06 08:50:38,690:INFO: Average Global Accurancy = 0.5704, Loss = 1.18.
+2024-06-06 08:50:38,690:INFO: Best Global Accurancy = 0.5767, Loss = 1.18, Iter = 27.
+2024-06-06 08:50:40,014:INFO: 
+
+-------------Round number: 29 -------------
+
+
+2024-06-06 08:50:40,379:INFO: Average Global Accurancy = 0.5707, Loss = 1.18.
+2024-06-06 08:50:40,379:INFO: Best Global Accurancy = 0.5767, Loss = 1.18, Iter = 27.
+2024-06-06 08:50:41,702:INFO: 
+
+-------------Round number: 30 -------------
+
+
+2024-06-06 08:50:42,112:INFO: Average Global Accurancy = 0.5930, Loss = 1.12.
+2024-06-06 08:50:42,112:INFO: Best Global Accurancy = 0.5930, Loss = 1.12, Iter = 30.
+2024-06-06 08:50:43,438:INFO: 
+
+-------------Round number: 31 -------------
+
+
+2024-06-06 08:50:43,851:INFO: Average Global Accurancy = 0.5961, Loss = 1.11.
+2024-06-06 08:50:43,851:INFO: Best Global Accurancy = 0.5961, Loss = 1.11, Iter = 31.
+2024-06-06 08:50:45,176:INFO: 
+
+-------------Round number: 32 -------------
+
+
+2024-06-06 08:50:45,588:INFO: Average Global Accurancy = 0.6044, Loss = 1.09.
+2024-06-06 08:50:45,588:INFO: Best Global Accurancy = 0.6044, Loss = 1.09, Iter = 32.
+2024-06-06 08:50:46,913:INFO: 
+
+-------------Round number: 33 -------------
+
+
+2024-06-06 08:50:47,322:INFO: Average Global Accurancy = 0.6175, Loss = 1.06.
+2024-06-06 08:50:47,323:INFO: Best Global Accurancy = 0.6175, Loss = 1.06, Iter = 33.
+2024-06-06 08:50:48,648:INFO: 
+
+-------------Round number: 34 -------------
+
+
+2024-06-06 08:50:49,055:INFO: Average Global Accurancy = 0.6272, Loss = 1.04.
+2024-06-06 08:50:49,056:INFO: Best Global Accurancy = 0.6272, Loss = 1.04, Iter = 34.
+2024-06-06 08:50:50,381:INFO: 
+
+-------------Round number: 35 -------------
+
+
+2024-06-06 08:50:50,792:INFO: Average Global Accurancy = 0.6366, Loss = 1.01.
+2024-06-06 08:50:50,792:INFO: Best Global Accurancy = 0.6366, Loss = 1.01, Iter = 35.
+2024-06-06 08:50:52,116:INFO: 
+
+-------------Round number: 36 -------------
+
+
+2024-06-06 08:50:52,575:INFO: Average Global Accurancy = 0.6383, Loss = 1.01.
+2024-06-06 08:50:52,575:INFO: Best Global Accurancy = 0.6383, Loss = 1.01, Iter = 36.
+2024-06-06 08:50:53,900:INFO: 
+
+-------------Round number: 37 -------------
+
+
+2024-06-06 08:50:54,313:INFO: Average Global Accurancy = 0.6457, Loss = 0.99.
+2024-06-06 08:50:54,313:INFO: Best Global Accurancy = 0.6457, Loss = 0.99, Iter = 37.
+2024-06-06 08:50:55,638:INFO: 
+
+-------------Round number: 38 -------------
+
+
+2024-06-06 08:50:56,050:INFO: Average Global Accurancy = 0.6561, Loss = 0.97.
+2024-06-06 08:50:56,050:INFO: Best Global Accurancy = 0.6561, Loss = 0.97, Iter = 38.
+2024-06-06 08:50:57,377:INFO: 
+
+-------------Round number: 39 -------------
+
+
+2024-06-06 08:50:57,787:INFO: Average Global Accurancy = 0.6611, Loss = 0.95.
+2024-06-06 08:50:57,787:INFO: Best Global Accurancy = 0.6611, Loss = 0.95, Iter = 39.
+2024-06-06 08:50:59,113:INFO: 
+
+-------------Round number: 40 -------------
+
+
+2024-06-06 08:50:59,521:INFO: Average Global Accurancy = 0.6613, Loss = 0.94.
+2024-06-06 08:50:59,521:INFO: Best Global Accurancy = 0.6613, Loss = 0.94, Iter = 40.
+2024-06-06 08:51:00,846:INFO: 
+
+-------------Round number: 41 -------------
+
+
+2024-06-06 08:51:01,265:INFO: Average Global Accurancy = 0.6681, Loss = 0.93.
+2024-06-06 08:51:01,265:INFO: Best Global Accurancy = 0.6681, Loss = 0.93, Iter = 41.
+2024-06-06 08:51:02,590:INFO: 
+
+-------------Round number: 42 -------------
+
+
+2024-06-06 08:51:02,999:INFO: Average Global Accurancy = 0.6726, Loss = 0.92.
+2024-06-06 08:51:02,999:INFO: Best Global Accurancy = 0.6726, Loss = 0.92, Iter = 42.
+2024-06-06 08:51:04,324:INFO: 
+
+-------------Round number: 43 -------------
+
+
+2024-06-06 08:51:04,734:INFO: Average Global Accurancy = 0.6842, Loss = 0.89.
+2024-06-06 08:51:04,734:INFO: Best Global Accurancy = 0.6842, Loss = 0.89, Iter = 43.
+2024-06-06 08:51:06,058:INFO: 
+
+-------------Round number: 44 -------------
+
+
+2024-06-06 08:51:06,468:INFO: Average Global Accurancy = 0.6901, Loss = 0.88.
+2024-06-06 08:51:06,468:INFO: Best Global Accurancy = 0.6901, Loss = 0.88, Iter = 44.
+2024-06-06 08:51:07,793:INFO: 
+
+-------------Round number: 45 -------------
+
+
+2024-06-06 08:51:08,202:INFO: Average Global Accurancy = 0.6925, Loss = 0.86.
+2024-06-06 08:51:08,202:INFO: Best Global Accurancy = 0.6925, Loss = 0.86, Iter = 45.
+2024-06-06 08:51:09,529:INFO: 
+
+-------------Round number: 46 -------------
+
+
+2024-06-06 08:51:09,893:INFO: Average Global Accurancy = 0.6875, Loss = 0.88.
+2024-06-06 08:51:09,893:INFO: Best Global Accurancy = 0.6925, Loss = 0.86, Iter = 45.
+2024-06-06 08:51:11,218:INFO: 
+
+-------------Round number: 47 -------------
+
+
+2024-06-06 08:51:11,629:INFO: Average Global Accurancy = 0.6932, Loss = 0.87.
+2024-06-06 08:51:11,629:INFO: Best Global Accurancy = 0.6932, Loss = 0.87, Iter = 47.
+2024-06-06 08:51:12,953:INFO: 
+
+-------------Round number: 48 -------------
+
+
+2024-06-06 08:51:13,364:INFO: Average Global Accurancy = 0.6980, Loss = 0.84.
+2024-06-06 08:51:13,364:INFO: Best Global Accurancy = 0.6980, Loss = 0.84, Iter = 48.
+2024-06-06 08:51:14,689:INFO: 
+
+-------------Round number: 49 -------------
+
+
+2024-06-06 08:51:15,054:INFO: Average Global Accurancy = 0.6947, Loss = 0.86.
+2024-06-06 08:51:15,054:INFO: Best Global Accurancy = 0.6980, Loss = 0.84, Iter = 48.
+2024-06-06 08:51:16,379:INFO: 
+
+-------------Round number: 50 -------------
+
+
+2024-06-06 08:51:16,789:INFO: Average Global Accurancy = 0.7074, Loss = 0.83.
+2024-06-06 08:51:16,789:INFO: Best Global Accurancy = 0.7074, Loss = 0.83, Iter = 50.
+2024-06-06 08:51:18,113:INFO: 
+
+-------------Round number: 51 -------------
+
+
+2024-06-06 08:51:18,478:INFO: Average Global Accurancy = 0.7042, Loss = 0.84.
+2024-06-06 08:51:18,478:INFO: Best Global Accurancy = 0.7074, Loss = 0.83, Iter = 50.
+2024-06-06 08:51:19,803:INFO: 
+
+-------------Round number: 52 -------------
+
+
+2024-06-06 08:51:20,214:INFO: Average Global Accurancy = 0.7244, Loss = 0.78.
+2024-06-06 08:51:20,214:INFO: Best Global Accurancy = 0.7244, Loss = 0.78, Iter = 52.
+2024-06-06 08:51:21,539:INFO: 
+
+-------------Round number: 53 -------------
+
+
+2024-06-06 08:51:21,903:INFO: Average Global Accurancy = 0.7084, Loss = 0.83.
+2024-06-06 08:51:21,904:INFO: Best Global Accurancy = 0.7244, Loss = 0.78, Iter = 52.
+2024-06-06 08:51:23,228:INFO: 
+
+-------------Round number: 54 -------------
+
+
+2024-06-06 08:51:23,595:INFO: Average Global Accurancy = 0.7190, Loss = 0.80.
+2024-06-06 08:51:23,595:INFO: Best Global Accurancy = 0.7244, Loss = 0.78, Iter = 52.
+2024-06-06 08:51:24,921:INFO: 
+
+-------------Round number: 55 -------------
+
+
+2024-06-06 08:51:25,331:INFO: Average Global Accurancy = 0.7257, Loss = 0.80.
+2024-06-06 08:51:25,331:INFO: Best Global Accurancy = 0.7257, Loss = 0.80, Iter = 55.
+2024-06-06 08:51:26,656:INFO: 
+
+-------------Round number: 56 -------------
+
+
+2024-06-06 08:51:27,020:INFO: Average Global Accurancy = 0.7227, Loss = 0.79.
+2024-06-06 08:51:27,020:INFO: Best Global Accurancy = 0.7257, Loss = 0.80, Iter = 55.
+2024-06-06 08:51:28,345:INFO: 
+
+-------------Round number: 57 -------------
+
+
+2024-06-06 08:51:28,711:INFO: Average Global Accurancy = 0.7198, Loss = 0.81.
+2024-06-06 08:51:28,711:INFO: Best Global Accurancy = 0.7257, Loss = 0.80, Iter = 55.
+2024-06-06 08:51:30,035:INFO: 
+
+-------------Round number: 58 -------------
+
+
+2024-06-06 08:51:30,446:INFO: Average Global Accurancy = 0.7341, Loss = 0.77.
+2024-06-06 08:51:30,446:INFO: Best Global Accurancy = 0.7341, Loss = 0.77, Iter = 58.
+2024-06-06 08:51:31,770:INFO: 
+
+-------------Round number: 59 -------------
+
+
+2024-06-06 08:51:32,180:INFO: Average Global Accurancy = 0.7443, Loss = 0.75.
+2024-06-06 08:51:32,180:INFO: Best Global Accurancy = 0.7443, Loss = 0.75, Iter = 59.
+2024-06-06 08:51:33,505:INFO: 
+
+-------------Round number: 60 -------------
+
+
+2024-06-06 08:51:33,870:INFO: Average Global Accurancy = 0.7333, Loss = 0.78.
+2024-06-06 08:51:33,870:INFO: Best Global Accurancy = 0.7443, Loss = 0.75, Iter = 59.
+2024-06-06 08:51:35,193:INFO: 
+
+-------------Round number: 61 -------------
+
+
+2024-06-06 08:51:35,609:INFO: Average Global Accurancy = 0.7504, Loss = 0.72.
+2024-06-06 08:51:35,609:INFO: Best Global Accurancy = 0.7504, Loss = 0.72, Iter = 61.
+2024-06-06 08:51:36,935:INFO: 
+
+-------------Round number: 62 -------------
+
+
+2024-06-06 08:51:37,299:INFO: Average Global Accurancy = 0.7448, Loss = 0.75.
+2024-06-06 08:51:37,299:INFO: Best Global Accurancy = 0.7504, Loss = 0.72, Iter = 61.
+2024-06-06 08:51:38,624:INFO: 
+
+-------------Round number: 63 -------------
+
+
+2024-06-06 08:51:38,989:INFO: Average Global Accurancy = 0.7364, Loss = 0.75.
+2024-06-06 08:51:38,989:INFO: Best Global Accurancy = 0.7504, Loss = 0.72, Iter = 61.
+2024-06-06 08:51:40,313:INFO: 
+
+-------------Round number: 64 -------------
+
+
+2024-06-06 08:51:40,679:INFO: Average Global Accurancy = 0.7436, Loss = 0.76.
+2024-06-06 08:51:40,679:INFO: Best Global Accurancy = 0.7504, Loss = 0.72, Iter = 61.
+2024-06-06 08:51:42,002:INFO: 
+
+-------------Round number: 65 -------------
+
+
+2024-06-06 08:51:42,367:INFO: Average Global Accurancy = 0.7493, Loss = 0.75.
+2024-06-06 08:51:42,367:INFO: Best Global Accurancy = 0.7504, Loss = 0.72, Iter = 61.
+2024-06-06 08:51:43,693:INFO: 
+
+-------------Round number: 66 -------------
+
+
+2024-06-06 08:51:44,103:INFO: Average Global Accurancy = 0.7648, Loss = 0.71.
+2024-06-06 08:51:44,103:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:51:45,428:INFO: 
+
+-------------Round number: 67 -------------
+
+
+2024-06-06 08:51:45,793:INFO: Average Global Accurancy = 0.7556, Loss = 0.74.
+2024-06-06 08:51:45,793:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:51:47,117:INFO: 
+
+-------------Round number: 68 -------------
+
+
+2024-06-06 08:51:47,482:INFO: Average Global Accurancy = 0.7559, Loss = 0.73.
+2024-06-06 08:51:47,482:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:51:48,807:INFO: 
+
+-------------Round number: 69 -------------
+
+
+2024-06-06 08:51:49,172:INFO: Average Global Accurancy = 0.7596, Loss = 0.73.
+2024-06-06 08:51:49,172:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:51:50,497:INFO: 
+
+-------------Round number: 70 -------------
+
+
+2024-06-06 08:51:50,862:INFO: Average Global Accurancy = 0.7466, Loss = 0.77.
+2024-06-06 08:51:50,862:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:51:52,186:INFO: 
+
+-------------Round number: 71 -------------
+
+
+2024-06-06 08:51:52,550:INFO: Average Global Accurancy = 0.7577, Loss = 0.73.
+2024-06-06 08:51:52,550:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:51:53,874:INFO: 
+
+-------------Round number: 72 -------------
+
+
+2024-06-06 08:51:54,239:INFO: Average Global Accurancy = 0.7592, Loss = 0.74.
+2024-06-06 08:51:54,239:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:51:55,564:INFO: 
+
+-------------Round number: 73 -------------
+
+
+2024-06-06 08:51:55,929:INFO: Average Global Accurancy = 0.7592, Loss = 0.73.
+2024-06-06 08:51:55,929:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:51:57,254:INFO: 
+
+-------------Round number: 74 -------------
+
+
+2024-06-06 08:51:57,621:INFO: Average Global Accurancy = 0.7557, Loss = 0.77.
+2024-06-06 08:51:57,621:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:51:58,947:INFO: 
+
+-------------Round number: 75 -------------
+
+
+2024-06-06 08:51:59,313:INFO: Average Global Accurancy = 0.7638, Loss = 0.73.
+2024-06-06 08:51:59,314:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:52:00,640:INFO: 
+
+-------------Round number: 76 -------------
+
+
+2024-06-06 08:52:01,005:INFO: Average Global Accurancy = 0.7540, Loss = 0.74.
+2024-06-06 08:52:01,005:INFO: Best Global Accurancy = 0.7648, Loss = 0.71, Iter = 66.
+2024-06-06 08:52:02,332:INFO: 
+
+-------------Round number: 77 -------------
+
+
+2024-06-06 08:52:02,742:INFO: Average Global Accurancy = 0.7759, Loss = 0.69.
+2024-06-06 08:52:02,743:INFO: Best Global Accurancy = 0.7759, Loss = 0.69, Iter = 77.
+2024-06-06 08:52:04,070:INFO: 
+
+-------------Round number: 78 -------------
+
+
+2024-06-06 08:52:04,435:INFO: Average Global Accurancy = 0.7552, Loss = 0.79.
+2024-06-06 08:52:04,435:INFO: Best Global Accurancy = 0.7759, Loss = 0.69, Iter = 77.
+2024-06-06 08:52:05,761:INFO: 
+
+-------------Round number: 79 -------------
+
+
+2024-06-06 08:52:06,126:INFO: Average Global Accurancy = 0.7623, Loss = 0.76.
+2024-06-06 08:52:06,126:INFO: Best Global Accurancy = 0.7759, Loss = 0.69, Iter = 77.
+2024-06-06 08:52:07,452:INFO: 
+
+-------------Round number: 80 -------------
+
+
+2024-06-06 08:52:07,817:INFO: Average Global Accurancy = 0.7685, Loss = 0.73.
+2024-06-06 08:52:07,818:INFO: Best Global Accurancy = 0.7759, Loss = 0.69, Iter = 77.
+2024-06-06 08:52:09,144:INFO: 
+
+-------------Round number: 81 -------------
+
+
+2024-06-06 08:52:09,509:INFO: Average Global Accurancy = 0.7703, Loss = 0.72.
+2024-06-06 08:52:09,509:INFO: Best Global Accurancy = 0.7759, Loss = 0.69, Iter = 77.
+2024-06-06 08:52:10,836:INFO: 
+
+-------------Round number: 82 -------------
+
+
+2024-06-06 08:52:11,200:INFO: Average Global Accurancy = 0.7744, Loss = 0.73.
+2024-06-06 08:52:11,201:INFO: Best Global Accurancy = 0.7759, Loss = 0.69, Iter = 77.
+2024-06-06 08:52:12,527:INFO: 
+
+-------------Round number: 83 -------------
+
+
+2024-06-06 08:52:12,892:INFO: Average Global Accurancy = 0.7629, Loss = 0.79.
+2024-06-06 08:52:12,892:INFO: Best Global Accurancy = 0.7759, Loss = 0.69, Iter = 77.
+2024-06-06 08:52:14,217:INFO: 
+
+-------------Round number: 84 -------------
+
+
+2024-06-06 08:52:14,582:INFO: Average Global Accurancy = 0.7669, Loss = 0.72.
+2024-06-06 08:52:14,582:INFO: Best Global Accurancy = 0.7759, Loss = 0.69, Iter = 77.
+2024-06-06 08:52:15,908:INFO: 
+
+-------------Round number: 85 -------------
+
+
+2024-06-06 08:52:16,319:INFO: Average Global Accurancy = 0.7771, Loss = 0.73.
+2024-06-06 08:52:16,319:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:17,643:INFO: 
+
+-------------Round number: 86 -------------
+
+
+2024-06-06 08:52:18,008:INFO: Average Global Accurancy = 0.7651, Loss = 0.79.
+2024-06-06 08:52:18,008:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:19,333:INFO: 
+
+-------------Round number: 87 -------------
+
+
+2024-06-06 08:52:19,698:INFO: Average Global Accurancy = 0.7649, Loss = 0.77.
+2024-06-06 08:52:19,698:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:21,022:INFO: 
+
+-------------Round number: 88 -------------
+
+
+2024-06-06 08:52:21,387:INFO: Average Global Accurancy = 0.7673, Loss = 0.78.
+2024-06-06 08:52:21,387:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:22,712:INFO: 
+
+-------------Round number: 89 -------------
+
+
+2024-06-06 08:52:23,077:INFO: Average Global Accurancy = 0.7717, Loss = 0.77.
+2024-06-06 08:52:23,077:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:24,402:INFO: 
+
+-------------Round number: 90 -------------
+
+
+2024-06-06 08:52:24,767:INFO: Average Global Accurancy = 0.7598, Loss = 0.82.
+2024-06-06 08:52:24,767:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:26,091:INFO: 
+
+-------------Round number: 91 -------------
+
+
+2024-06-06 08:52:26,456:INFO: Average Global Accurancy = 0.7658, Loss = 0.79.
+2024-06-06 08:52:26,456:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:27,780:INFO: 
+
+-------------Round number: 92 -------------
+
+
+2024-06-06 08:52:28,145:INFO: Average Global Accurancy = 0.7624, Loss = 0.81.
+2024-06-06 08:52:28,145:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:29,469:INFO: 
+
+-------------Round number: 93 -------------
+
+
+2024-06-06 08:52:29,834:INFO: Average Global Accurancy = 0.7679, Loss = 0.80.
+2024-06-06 08:52:29,834:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:31,159:INFO: 
+
+-------------Round number: 94 -------------
+
+
+2024-06-06 08:52:31,524:INFO: Average Global Accurancy = 0.7726, Loss = 0.80.
+2024-06-06 08:52:31,525:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:32,848:INFO: 
+
+-------------Round number: 95 -------------
+
+
+2024-06-06 08:52:33,213:INFO: Average Global Accurancy = 0.7730, Loss = 0.79.
+2024-06-06 08:52:33,213:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:34,537:INFO: 
+
+-------------Round number: 96 -------------
+
+
+2024-06-06 08:52:34,902:INFO: Average Global Accurancy = 0.7647, Loss = 0.82.
+2024-06-06 08:52:34,902:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:36,227:INFO: 
+
+-------------Round number: 97 -------------
+
+
+2024-06-06 08:52:36,594:INFO: Average Global Accurancy = 0.7723, Loss = 0.80.
+2024-06-06 08:52:36,594:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:37,919:INFO: 
+
+-------------Round number: 98 -------------
+
+
+2024-06-06 08:52:38,285:INFO: Average Global Accurancy = 0.7764, Loss = 0.79.
+2024-06-06 08:52:38,285:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:39,609:INFO: 
+
+-------------Round number: 99 -------------
+
+
+2024-06-06 08:52:39,974:INFO: Average Global Accurancy = 0.7753, Loss = 0.81.
+2024-06-06 08:52:39,974:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:41,299:INFO: 
+
+-------------Round number: 100 -------------
+
+
+2024-06-06 08:52:41,663:INFO: Average Global Accurancy = 0.7747, Loss = 0.80.
+2024-06-06 08:52:41,663:INFO: Best Global Accurancy = 0.7771, Loss = 0.73, Iter = 85.
+2024-06-06 08:52:42,989:INFO: 
+
+-------------Round number: 101 -------------
+
+
+2024-06-06 08:52:43,400:INFO: Average Global Accurancy = 0.7801, Loss = 0.79.
+2024-06-06 08:52:43,400:INFO: Best Global Accurancy = 0.7801, Loss = 0.79, Iter = 101.
+2024-06-06 08:52:44,724:INFO: 
+
+-------------Round number: 102 -------------
+
+
+2024-06-06 08:52:45,089:INFO: Average Global Accurancy = 0.7651, Loss = 0.84.
+2024-06-06 08:52:45,089:INFO: Best Global Accurancy = 0.7801, Loss = 0.79, Iter = 101.
+2024-06-06 08:52:46,414:INFO: 
+
+-------------Round number: 103 -------------
+
+
+2024-06-06 08:52:46,778:INFO: Average Global Accurancy = 0.7661, Loss = 0.85.
+2024-06-06 08:52:46,779:INFO: Best Global Accurancy = 0.7801, Loss = 0.79, Iter = 101.
+2024-06-06 08:52:48,103:INFO: 
+
+-------------Round number: 104 -------------
+
+
+2024-06-06 08:52:48,468:INFO: Average Global Accurancy = 0.7766, Loss = 0.82.
+2024-06-06 08:52:48,468:INFO: Best Global Accurancy = 0.7801, Loss = 0.79, Iter = 101.
+2024-06-06 08:52:49,793:INFO: 
+
+-------------Round number: 105 -------------
+
+
+2024-06-06 08:52:50,158:INFO: Average Global Accurancy = 0.7595, Loss = 0.89.
+2024-06-06 08:52:50,158:INFO: Best Global Accurancy = 0.7801, Loss = 0.79, Iter = 101.
+2024-06-06 08:52:51,483:INFO: 
+
+-------------Round number: 106 -------------
+
+
+2024-06-06 08:52:51,847:INFO: Average Global Accurancy = 0.7688, Loss = 0.85.
+2024-06-06 08:52:51,847:INFO: Best Global Accurancy = 0.7801, Loss = 0.79, Iter = 101.
+2024-06-06 08:52:53,171:INFO: 
+
+-------------Round number: 107 -------------
+
+
+2024-06-06 08:52:53,537:INFO: Average Global Accurancy = 0.7670, Loss = 0.85.
+2024-06-06 08:52:53,537:INFO: Best Global Accurancy = 0.7801, Loss = 0.79, Iter = 101.
+2024-06-06 08:52:54,861:INFO: 
+
+-------------Round number: 108 -------------
+
+
+2024-06-06 08:52:55,225:INFO: Average Global Accurancy = 0.7726, Loss = 0.85.
+2024-06-06 08:52:55,225:INFO: Best Global Accurancy = 0.7801, Loss = 0.79, Iter = 101.
+2024-06-06 08:52:56,551:INFO: 
+
+-------------Round number: 109 -------------
+
+
+2024-06-06 08:52:56,916:INFO: Average Global Accurancy = 0.7797, Loss = 0.82.
+2024-06-06 08:52:56,916:INFO: Best Global Accurancy = 0.7801, Loss = 0.79, Iter = 101.
+2024-06-06 08:52:58,242:INFO: 
+
+-------------Round number: 110 -------------
+
+
+2024-06-06 08:52:58,654:INFO: Average Global Accurancy = 0.7806, Loss = 0.84.
+2024-06-06 08:52:58,654:INFO: Best Global Accurancy = 0.7806, Loss = 0.84, Iter = 110.
+2024-06-06 08:52:59,980:INFO: 
+
+-------------Round number: 111 -------------
+
+
+2024-06-06 08:53:00,345:INFO: Average Global Accurancy = 0.7747, Loss = 0.85.
+2024-06-06 08:53:00,345:INFO: Best Global Accurancy = 0.7806, Loss = 0.84, Iter = 110.
+2024-06-06 08:53:01,671:INFO: 
+
+-------------Round number: 112 -------------
+
+
+2024-06-06 08:53:02,035:INFO: Average Global Accurancy = 0.7770, Loss = 0.84.
+2024-06-06 08:53:02,036:INFO: Best Global Accurancy = 0.7806, Loss = 0.84, Iter = 110.
+2024-06-06 08:53:03,361:INFO: 
+
+-------------Round number: 113 -------------
+
+
+2024-06-06 08:53:03,770:INFO: Average Global Accurancy = 0.7810, Loss = 0.80.
+2024-06-06 08:53:03,771:INFO: Best Global Accurancy = 0.7810, Loss = 0.80, Iter = 113.
+2024-06-06 08:53:05,097:INFO: 
+
+-------------Round number: 114 -------------
+
+
+2024-06-06 08:53:05,462:INFO: Average Global Accurancy = 0.7775, Loss = 0.82.
+2024-06-06 08:53:05,462:INFO: Best Global Accurancy = 0.7810, Loss = 0.80, Iter = 113.
+2024-06-06 08:53:06,790:INFO: 
+
+-------------Round number: 115 -------------
+
+
+2024-06-06 08:53:07,155:INFO: Average Global Accurancy = 0.7804, Loss = 0.82.
+2024-06-06 08:53:07,155:INFO: Best Global Accurancy = 0.7810, Loss = 0.80, Iter = 113.
+2024-06-06 08:53:08,482:INFO: 
+
+-------------Round number: 116 -------------
+
+
+2024-06-06 08:53:08,848:INFO: Average Global Accurancy = 0.7761, Loss = 0.82.
+2024-06-06 08:53:08,848:INFO: Best Global Accurancy = 0.7810, Loss = 0.80, Iter = 113.
+2024-06-06 08:53:10,174:INFO: 
+
+-------------Round number: 117 -------------
+
+
+2024-06-06 08:53:10,540:INFO: Average Global Accurancy = 0.7792, Loss = 0.81.
+2024-06-06 08:53:10,540:INFO: Best Global Accurancy = 0.7810, Loss = 0.80, Iter = 113.
+2024-06-06 08:53:11,866:INFO: 
+
+-------------Round number: 118 -------------
+
+
+2024-06-06 08:53:12,277:INFO: Average Global Accurancy = 0.7813, Loss = 0.80.
+2024-06-06 08:53:12,277:INFO: Best Global Accurancy = 0.7813, Loss = 0.80, Iter = 118.
+2024-06-06 08:53:13,605:INFO: 
+
+-------------Round number: 119 -------------
+
+
+2024-06-06 08:53:13,971:INFO: Average Global Accurancy = 0.7792, Loss = 0.85.
+2024-06-06 08:53:13,971:INFO: Best Global Accurancy = 0.7813, Loss = 0.80, Iter = 118.
+2024-06-06 08:53:15,298:INFO: 
+
+-------------Round number: 120 -------------
+
+
+2024-06-06 08:53:15,663:INFO: Average Global Accurancy = 0.7762, Loss = 0.83.
+2024-06-06 08:53:15,663:INFO: Best Global Accurancy = 0.7813, Loss = 0.80, Iter = 118.
+2024-06-06 08:53:16,991:INFO: 
+
+-------------Round number: 121 -------------
+
+
+2024-06-06 08:53:17,356:INFO: Average Global Accurancy = 0.7789, Loss = 0.85.
+2024-06-06 08:53:17,356:INFO: Best Global Accurancy = 0.7813, Loss = 0.80, Iter = 118.
+2024-06-06 08:53:18,683:INFO: 
+
+-------------Round number: 122 -------------
+
+
+2024-06-06 08:53:19,092:INFO: Average Global Accurancy = 0.7816, Loss = 0.84.
+2024-06-06 08:53:19,092:INFO: Best Global Accurancy = 0.7816, Loss = 0.84, Iter = 122.
+2024-06-06 08:53:20,418:INFO: 
+
+-------------Round number: 123 -------------
+
+
+2024-06-06 08:53:20,783:INFO: Average Global Accurancy = 0.7808, Loss = 0.87.
+2024-06-06 08:53:20,783:INFO: Best Global Accurancy = 0.7816, Loss = 0.84, Iter = 122.
+2024-06-06 08:53:22,110:INFO: 
+
+-------------Round number: 124 -------------
+
+
+2024-06-06 08:53:22,475:INFO: Average Global Accurancy = 0.7799, Loss = 0.85.
+2024-06-06 08:53:22,475:INFO: Best Global Accurancy = 0.7816, Loss = 0.84, Iter = 122.
+2024-06-06 08:53:23,803:INFO: 
+
+-------------Round number: 125 -------------
+
+
+2024-06-06 08:53:24,213:INFO: Average Global Accurancy = 0.7822, Loss = 0.83.
+2024-06-06 08:53:24,213:INFO: Best Global Accurancy = 0.7822, Loss = 0.83, Iter = 125.
+2024-06-06 08:53:25,540:INFO: 
+
+-------------Round number: 126 -------------
+
+
+2024-06-06 08:53:25,952:INFO: Average Global Accurancy = 0.7818, Loss = 0.86.
+2024-06-06 08:53:25,952:INFO: Best Global Accurancy = 0.7822, Loss = 0.83, Iter = 125.
+2024-06-06 08:53:27,277:INFO: 
+
+-------------Round number: 127 -------------
+
+
+2024-06-06 08:53:27,641:INFO: Average Global Accurancy = 0.7774, Loss = 0.88.
+2024-06-06 08:53:27,641:INFO: Best Global Accurancy = 0.7822, Loss = 0.83, Iter = 125.
+2024-06-06 08:53:28,968:INFO: 
+
+-------------Round number: 128 -------------
+
+
+2024-06-06 08:53:29,378:INFO: Average Global Accurancy = 0.7841, Loss = 0.81.
+2024-06-06 08:53:29,378:INFO: Best Global Accurancy = 0.7841, Loss = 0.81, Iter = 128.
+2024-06-06 08:53:30,704:INFO: 
+
+-------------Round number: 129 -------------
+
+
+2024-06-06 08:53:31,069:INFO: Average Global Accurancy = 0.7803, Loss = 0.81.
+2024-06-06 08:53:31,069:INFO: Best Global Accurancy = 0.7841, Loss = 0.81, Iter = 128.
+2024-06-06 08:53:32,393:INFO: 
+
+-------------Round number: 130 -------------
+
+
+2024-06-06 08:53:32,805:INFO: Average Global Accurancy = 0.7865, Loss = 0.82.
+2024-06-06 08:53:32,805:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:34,130:INFO: 
+
+-------------Round number: 131 -------------
+
+
+2024-06-06 08:53:34,495:INFO: Average Global Accurancy = 0.7757, Loss = 0.88.
+2024-06-06 08:53:34,495:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:35,820:INFO: 
+
+-------------Round number: 132 -------------
+
+
+2024-06-06 08:53:36,185:INFO: Average Global Accurancy = 0.7770, Loss = 0.83.
+2024-06-06 08:53:36,185:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:37,511:INFO: 
+
+-------------Round number: 133 -------------
+
+
+2024-06-06 08:53:37,876:INFO: Average Global Accurancy = 0.7852, Loss = 0.79.
+2024-06-06 08:53:37,876:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:39,202:INFO: 
+
+-------------Round number: 134 -------------
+
+
+2024-06-06 08:53:39,567:INFO: Average Global Accurancy = 0.7793, Loss = 0.87.
+2024-06-06 08:53:39,567:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:40,892:INFO: 
+
+-------------Round number: 135 -------------
+
+
+2024-06-06 08:53:41,257:INFO: Average Global Accurancy = 0.7809, Loss = 0.89.
+2024-06-06 08:53:41,257:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:42,580:INFO: 
+
+-------------Round number: 136 -------------
+
+
+2024-06-06 08:53:42,945:INFO: Average Global Accurancy = 0.7856, Loss = 0.84.
+2024-06-06 08:53:42,945:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:44,270:INFO: 
+
+-------------Round number: 137 -------------
+
+
+2024-06-06 08:53:44,635:INFO: Average Global Accurancy = 0.7730, Loss = 0.90.
+2024-06-06 08:53:44,635:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:45,960:INFO: 
+
+-------------Round number: 138 -------------
+
+
+2024-06-06 08:53:46,325:INFO: Average Global Accurancy = 0.7848, Loss = 0.84.
+2024-06-06 08:53:46,325:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:47,648:INFO: 
+
+-------------Round number: 139 -------------
+
+
+2024-06-06 08:53:48,013:INFO: Average Global Accurancy = 0.7764, Loss = 0.87.
+2024-06-06 08:53:48,013:INFO: Best Global Accurancy = 0.7865, Loss = 0.82, Iter = 130.
+2024-06-06 08:53:49,338:INFO: 
+
+-------------Round number: 140 -------------
+
+
+2024-06-06 08:53:49,756:INFO: Average Global Accurancy = 0.7900, Loss = 0.79.
+2024-06-06 08:53:49,756:INFO: Best Global Accurancy = 0.7900, Loss = 0.79, Iter = 140.
+2024-06-06 08:53:51,082:INFO: 
+
+-------------Round number: 141 -------------
+
+
+2024-06-06 08:53:51,447:INFO: Average Global Accurancy = 0.7821, Loss = 0.84.
+2024-06-06 08:53:51,447:INFO: Best Global Accurancy = 0.7900, Loss = 0.79, Iter = 140.
+2024-06-06 08:53:52,772:INFO: 
+
+-------------Round number: 142 -------------
+
+
+2024-06-06 08:53:53,137:INFO: Average Global Accurancy = 0.7857, Loss = 0.82.
+2024-06-06 08:53:53,137:INFO: Best Global Accurancy = 0.7900, Loss = 0.79, Iter = 140.
+2024-06-06 08:53:54,460:INFO: 
+
+-------------Round number: 143 -------------
+
+
+2024-06-06 08:53:54,870:INFO: Average Global Accurancy = 0.7913, Loss = 0.82.
+2024-06-06 08:53:54,871:INFO: Best Global Accurancy = 0.7913, Loss = 0.82, Iter = 143.
+2024-06-06 08:53:56,196:INFO: 
+
+-------------Round number: 144 -------------
+
+
+2024-06-06 08:53:56,560:INFO: Average Global Accurancy = 0.7853, Loss = 0.85.
+2024-06-06 08:53:56,560:INFO: Best Global Accurancy = 0.7913, Loss = 0.82, Iter = 143.
+2024-06-06 08:53:57,884:INFO: 
+
+-------------Round number: 145 -------------
+
+
+2024-06-06 08:53:58,250:INFO: Average Global Accurancy = 0.7844, Loss = 0.87.
+2024-06-06 08:53:58,250:INFO: Best Global Accurancy = 0.7913, Loss = 0.82, Iter = 143.
+2024-06-06 08:53:59,573:INFO: 
+
+-------------Round number: 146 -------------
+
+
+2024-06-06 08:53:59,938:INFO: Average Global Accurancy = 0.7849, Loss = 0.84.
+2024-06-06 08:53:59,938:INFO: Best Global Accurancy = 0.7913, Loss = 0.82, Iter = 143.
+2024-06-06 08:54:01,262:INFO: 
+
+-------------Round number: 147 -------------
+
+
+2024-06-06 08:54:01,627:INFO: Average Global Accurancy = 0.7902, Loss = 0.82.
+2024-06-06 08:54:01,628:INFO: Best Global Accurancy = 0.7913, Loss = 0.82, Iter = 143.
+2024-06-06 08:54:02,952:INFO: 
+
+-------------Round number: 148 -------------
+
+
+2024-06-06 08:54:03,317:INFO: Average Global Accurancy = 0.7867, Loss = 0.84.
+2024-06-06 08:54:03,317:INFO: Best Global Accurancy = 0.7913, Loss = 0.82, Iter = 143.
+2024-06-06 08:54:04,642:INFO: 
+
+-------------Round number: 149 -------------
+
+
+2024-06-06 08:54:05,007:INFO: Average Global Accurancy = 0.7913, Loss = 0.82.
+2024-06-06 08:54:05,007:INFO: Best Global Accurancy = 0.7913, Loss = 0.82, Iter = 143.
+2024-06-09 07:16:59,442:INFO: ================================================================================
+2024-06-09 07:16:59,442:INFO: Summary of normal model training process:
+2024-06-09 07:16:59,442:INFO: Dataset: CIFAR10-alpha50.0-ratio1.0-users10
+2024-06-09 07:16:59,442:INFO: model: resnet18
+2024-06-09 07:16:59,442:INFO: Device: cuda
+2024-06-09 07:16:59,442:INFO: Number of global rounds: 150
+2024-06-09 07:16:59,442:INFO: Number of local rounds: 10
+2024-06-09 07:16:59,442:INFO: Clents' learning rate: 0.1
+2024-06-09 07:16:59,442:INFO: ================================================================================
+2024-06-09 07:16:59,754:INFO: Users in total: 10
+2024-06-09 07:16:59,944:INFO: Number of users per round / total users: 10 / 10
+2024-06-09 07:16:59,944:INFO: Finished creating FedAvg server.
+2024-06-09 07:16:59,945:INFO: 
+
+-------------Round number: 0 -------------
+
+
+2024-06-09 07:17:00,510:INFO: Average Global Accurancy = 0.1072, Loss = 2.30.
+2024-06-09 07:17:00,510:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-09 07:17:01,869:INFO: 
+
+-------------Round number: 1 -------------
+
+
+2024-06-09 07:17:02,235:INFO: Average Global Accurancy = 0.0967, Loss = 14.74.
+2024-06-09 07:17:02,235:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-09 07:17:03,555:INFO: 
+
+-------------Round number: 2 -------------
+
+
+2024-06-09 07:17:03,920:INFO: Average Global Accurancy = 0.0993, Loss = 3068.75.
+2024-06-09 07:17:03,920:INFO: Best Global Accurancy = 0.1072, Loss = 2.30, Iter = 0.
+2024-06-09 07:17:05,240:INFO: 
+
+-------------Round number: 3 -------------
+
+
+2024-06-09 07:17:05,649:INFO: Average Global Accurancy = 0.1281, Loss = 7.77.
+2024-06-09 07:17:05,649:INFO: Best Global Accurancy = 0.1281, Loss = 7.77, Iter = 3.
+2024-06-09 07:17:06,967:INFO: 
+
+-------------Round number: 4 -------------
+
+
+2024-06-09 07:17:07,374:INFO: Average Global Accurancy = 0.1968, Loss = 2.15.
+2024-06-09 07:17:07,375:INFO: Best Global Accurancy = 0.1968, Loss = 2.15, Iter = 4.
+2024-06-09 07:17:08,693:INFO: 
+
+-------------Round number: 5 -------------
+
+
+2024-06-09 07:17:09,103:INFO: Average Global Accurancy = 0.2318, Loss = 2.02.
+2024-06-09 07:17:09,103:INFO: Best Global Accurancy = 0.2318, Loss = 2.02, Iter = 5.
+2024-06-09 07:17:10,420:INFO: 
+
+-------------Round number: 6 -------------
+
+
+2024-06-09 07:17:10,785:INFO: Average Global Accurancy = 0.2271, Loss = 2.01.
+2024-06-09 07:17:10,786:INFO: Best Global Accurancy = 0.2318, Loss = 2.02, Iter = 5.
+2024-06-09 07:17:12,105:INFO: 
+
+-------------Round number: 7 -------------
+
+
+2024-06-09 07:17:12,514:INFO: Average Global Accurancy = 0.2408, Loss = 1.97.
+2024-06-09 07:17:12,514:INFO: Best Global Accurancy = 0.2408, Loss = 1.97, Iter = 7.
+2024-06-09 07:17:13,833:INFO: 
+
+-------------Round number: 8 -------------
+
+
+2024-06-09 07:17:14,242:INFO: Average Global Accurancy = 0.2982, Loss = 1.85.
+2024-06-09 07:17:14,243:INFO: Best Global Accurancy = 0.2982, Loss = 1.85, Iter = 8.
+2024-06-09 07:17:15,562:INFO: 
+
+-------------Round number: 9 -------------
+
+
+2024-06-09 07:17:15,968:INFO: Average Global Accurancy = 0.3133, Loss = 1.82.
+2024-06-09 07:17:15,969:INFO: Best Global Accurancy = 0.3133, Loss = 1.82, Iter = 9.
+2024-06-09 07:17:17,288:INFO: 
+
+-------------Round number: 10 -------------
+
+
+2024-06-09 07:17:17,696:INFO: Average Global Accurancy = 0.3354, Loss = 1.77.
+2024-06-09 07:17:17,696:INFO: Best Global Accurancy = 0.3354, Loss = 1.77, Iter = 10.
+2024-06-09 07:17:19,016:INFO: 
+
+-------------Round number: 11 -------------
+
+
+2024-06-09 07:17:19,435:INFO: Average Global Accurancy = 0.3475, Loss = 1.73.
+2024-06-09 07:17:19,435:INFO: Best Global Accurancy = 0.3475, Loss = 1.73, Iter = 11.
+2024-06-09 07:17:20,755:INFO: 
+
+-------------Round number: 12 -------------
+
+
+2024-06-09 07:17:21,165:INFO: Average Global Accurancy = 0.3587, Loss = 1.73.
+2024-06-09 07:17:21,165:INFO: Best Global Accurancy = 0.3587, Loss = 1.73, Iter = 12.
+2024-06-09 07:17:22,484:INFO: 
+
+-------------Round number: 13 -------------
+
+
+2024-06-09 07:17:22,893:INFO: Average Global Accurancy = 0.3872, Loss = 1.63.
+2024-06-09 07:17:22,893:INFO: Best Global Accurancy = 0.3872, Loss = 1.63, Iter = 13.
+2024-06-09 07:17:24,209:INFO: 
+
+-------------Round number: 14 -------------
+
+
+2024-06-09 07:17:24,618:INFO: Average Global Accurancy = 0.3917, Loss = 1.63.
+2024-06-09 07:17:24,618:INFO: Best Global Accurancy = 0.3917, Loss = 1.63, Iter = 14.
+2024-06-09 07:17:25,935:INFO: 
+
+-------------Round number: 15 -------------
+
+
+2024-06-09 07:17:26,344:INFO: Average Global Accurancy = 0.4045, Loss = 1.58.
+2024-06-09 07:17:26,345:INFO: Best Global Accurancy = 0.4045, Loss = 1.58, Iter = 15.
+2024-06-09 07:17:27,662:INFO: 
+
+-------------Round number: 16 -------------
+
+
+2024-06-09 07:17:28,073:INFO: Average Global Accurancy = 0.4180, Loss = 1.56.
+2024-06-09 07:17:28,073:INFO: Best Global Accurancy = 0.4180, Loss = 1.56, Iter = 16.
+2024-06-09 07:17:29,388:INFO: 
+
+-------------Round number: 17 -------------
+
+
+2024-06-09 07:17:29,799:INFO: Average Global Accurancy = 0.4248, Loss = 1.55.
+2024-06-09 07:17:29,799:INFO: Best Global Accurancy = 0.4248, Loss = 1.55, Iter = 17.
+2024-06-09 07:17:31,115:INFO: 
+
+-------------Round number: 18 -------------
+
+
+2024-06-09 07:17:31,526:INFO: Average Global Accurancy = 0.4340, Loss = 1.51.
+2024-06-09 07:17:31,526:INFO: Best Global Accurancy = 0.4340, Loss = 1.51, Iter = 18.
+2024-06-09 07:17:32,842:INFO: 
+
+-------------Round number: 19 -------------
+
+
+2024-06-09 07:17:33,252:INFO: Average Global Accurancy = 0.4455, Loss = 1.48.
+2024-06-09 07:17:33,252:INFO: Best Global Accurancy = 0.4455, Loss = 1.48, Iter = 19.
+2024-06-09 07:17:34,570:INFO: 
+
+-------------Round number: 20 -------------
+
+
+2024-06-09 07:17:34,935:INFO: Average Global Accurancy = 0.4436, Loss = 1.49.
+2024-06-09 07:17:34,935:INFO: Best Global Accurancy = 0.4455, Loss = 1.48, Iter = 19.
+2024-06-09 07:17:36,252:INFO: 
+
+-------------Round number: 21 -------------
+
+
+2024-06-09 07:17:36,662:INFO: Average Global Accurancy = 0.4648, Loss = 1.44.
+2024-06-09 07:17:36,662:INFO: Best Global Accurancy = 0.4648, Loss = 1.44, Iter = 21.
+2024-06-09 07:17:37,979:INFO: 
+
+-------------Round number: 22 -------------
+
+
+2024-06-09 07:17:38,389:INFO: Average Global Accurancy = 0.4817, Loss = 1.41.
+2024-06-09 07:17:38,389:INFO: Best Global Accurancy = 0.4817, Loss = 1.41, Iter = 22.
+2024-06-09 07:17:39,707:INFO: 
+
+-------------Round number: 23 -------------
+
+
+2024-06-09 07:17:40,117:INFO: Average Global Accurancy = 0.4860, Loss = 1.39.
+2024-06-09 07:17:40,117:INFO: Best Global Accurancy = 0.4860, Loss = 1.39, Iter = 23.
+2024-06-09 07:17:41,434:INFO: 
+
+-------------Round number: 24 -------------
+
+
+2024-06-09 07:17:41,799:INFO: Average Global Accurancy = 0.4815, Loss = 1.40.
+2024-06-09 07:17:41,799:INFO: Best Global Accurancy = 0.4860, Loss = 1.39, Iter = 23.
+2024-06-09 07:17:43,120:INFO: 
+
+-------------Round number: 25 -------------
+
+
+2024-06-09 07:17:43,539:INFO: Average Global Accurancy = 0.4969, Loss = 1.35.
+2024-06-09 07:17:43,539:INFO: Best Global Accurancy = 0.4969, Loss = 1.35, Iter = 25.
+2024-06-09 07:17:44,861:INFO: 
+
+-------------Round number: 26 -------------
+
+
+2024-06-09 07:17:45,274:INFO: Average Global Accurancy = 0.5010, Loss = 1.36.
+2024-06-09 07:17:45,274:INFO: Best Global Accurancy = 0.5010, Loss = 1.36, Iter = 26.
+2024-06-09 07:17:46,595:INFO: 
+
+-------------Round number: 27 -------------
+
+
+2024-06-09 07:17:47,003:INFO: Average Global Accurancy = 0.5075, Loss = 1.35.
+2024-06-09 07:17:47,004:INFO: Best Global Accurancy = 0.5075, Loss = 1.35, Iter = 27.
+2024-06-09 07:17:48,323:INFO: 
+
+-------------Round number: 28 -------------
+
+
+2024-06-09 07:17:48,735:INFO: Average Global Accurancy = 0.5210, Loss = 1.31.
+2024-06-09 07:17:48,735:INFO: Best Global Accurancy = 0.5210, Loss = 1.31, Iter = 28.
+2024-06-09 07:17:50,053:INFO: 
+
+-------------Round number: 29 -------------
+
+
+2024-06-09 07:17:50,464:INFO: Average Global Accurancy = 0.5226, Loss = 1.31.
+2024-06-09 07:17:50,464:INFO: Best Global Accurancy = 0.5226, Loss = 1.31, Iter = 29.
+2024-06-09 07:17:51,781:INFO: 
+
+-------------Round number: 30 -------------
+
+
+2024-06-09 07:17:52,191:INFO: Average Global Accurancy = 0.5432, Loss = 1.27.
+2024-06-09 07:17:52,191:INFO: Best Global Accurancy = 0.5432, Loss = 1.27, Iter = 30.
+2024-06-09 07:17:53,508:INFO: 
+
+-------------Round number: 31 -------------
+
+
+2024-06-09 07:17:53,921:INFO: Average Global Accurancy = 0.5485, Loss = 1.25.
+2024-06-09 07:17:53,921:INFO: Best Global Accurancy = 0.5485, Loss = 1.25, Iter = 31.
+2024-06-09 07:17:55,243:INFO: 
+
+-------------Round number: 32 -------------
+
+
+2024-06-09 07:17:55,655:INFO: Average Global Accurancy = 0.5575, Loss = 1.22.
+2024-06-09 07:17:55,655:INFO: Best Global Accurancy = 0.5575, Loss = 1.22, Iter = 32.
+2024-06-09 07:17:56,977:INFO: 
+
+-------------Round number: 33 -------------
+
+
+2024-06-09 07:17:57,387:INFO: Average Global Accurancy = 0.5679, Loss = 1.20.
+2024-06-09 07:17:57,387:INFO: Best Global Accurancy = 0.5679, Loss = 1.20, Iter = 33.
+2024-06-09 07:17:58,709:INFO: 
+
+-------------Round number: 34 -------------
+
+
+2024-06-09 07:17:59,119:INFO: Average Global Accurancy = 0.5684, Loss = 1.20.
+2024-06-09 07:17:59,119:INFO: Best Global Accurancy = 0.5684, Loss = 1.20, Iter = 34.
+2024-06-09 07:18:00,442:INFO: 
+
+-------------Round number: 35 -------------
+
+
+2024-06-09 07:18:00,855:INFO: Average Global Accurancy = 0.5773, Loss = 1.17.
+2024-06-09 07:18:00,855:INFO: Best Global Accurancy = 0.5773, Loss = 1.17, Iter = 35.
+2024-06-09 07:18:02,179:INFO: 
+
+-------------Round number: 36 -------------
+
+
+2024-06-09 07:18:02,639:INFO: Average Global Accurancy = 0.5867, Loss = 1.15.
+2024-06-09 07:18:02,639:INFO: Best Global Accurancy = 0.5867, Loss = 1.15, Iter = 36.
+2024-06-09 07:18:03,966:INFO: 
+
+-------------Round number: 37 -------------
+
+
+2024-06-09 07:18:04,381:INFO: Average Global Accurancy = 0.5953, Loss = 1.14.
+2024-06-09 07:18:04,381:INFO: Best Global Accurancy = 0.5953, Loss = 1.14, Iter = 37.
+2024-06-09 07:18:05,707:INFO: 
+
+-------------Round number: 38 -------------
+
+
+2024-06-09 07:18:06,071:INFO: Average Global Accurancy = 0.5908, Loss = 1.14.
+2024-06-09 07:18:06,071:INFO: Best Global Accurancy = 0.5953, Loss = 1.14, Iter = 37.
+2024-06-09 07:18:07,395:INFO: 
+
+-------------Round number: 39 -------------
+
+
+2024-06-09 07:18:07,804:INFO: Average Global Accurancy = 0.6042, Loss = 1.11.
+2024-06-09 07:18:07,805:INFO: Best Global Accurancy = 0.6042, Loss = 1.11, Iter = 39.
+2024-06-09 07:18:09,130:INFO: 
+
+-------------Round number: 40 -------------
+
+
+2024-06-09 07:18:09,540:INFO: Average Global Accurancy = 0.6191, Loss = 1.08.
+2024-06-09 07:18:09,540:INFO: Best Global Accurancy = 0.6191, Loss = 1.08, Iter = 40.
+2024-06-09 07:18:10,865:INFO: 
+
+-------------Round number: 41 -------------
+
+
+2024-06-09 07:18:11,229:INFO: Average Global Accurancy = 0.6051, Loss = 1.10.
+2024-06-09 07:18:11,229:INFO: Best Global Accurancy = 0.6191, Loss = 1.08, Iter = 40.
+2024-06-09 07:18:12,552:INFO: 
+
+-------------Round number: 42 -------------
+
+
+2024-06-09 07:18:12,964:INFO: Average Global Accurancy = 0.6290, Loss = 1.05.
+2024-06-09 07:18:12,965:INFO: Best Global Accurancy = 0.6290, Loss = 1.05, Iter = 42.
+2024-06-09 07:18:14,287:INFO: 
+
+-------------Round number: 43 -------------
+
+
+2024-06-09 07:18:14,653:INFO: Average Global Accurancy = 0.6214, Loss = 1.05.
+2024-06-09 07:18:14,653:INFO: Best Global Accurancy = 0.6290, Loss = 1.05, Iter = 42.
+2024-06-09 07:18:15,973:INFO: 
+
+-------------Round number: 44 -------------
+
+
+2024-06-09 07:18:16,382:INFO: Average Global Accurancy = 0.6365, Loss = 1.02.
+2024-06-09 07:18:16,382:INFO: Best Global Accurancy = 0.6365, Loss = 1.02, Iter = 44.
+2024-06-09 07:18:17,702:INFO: 
+
+-------------Round number: 45 -------------
+
+
+2024-06-09 07:18:18,112:INFO: Average Global Accurancy = 0.6422, Loss = 1.00.
+2024-06-09 07:18:18,112:INFO: Best Global Accurancy = 0.6422, Loss = 1.00, Iter = 45.
+2024-06-09 07:18:19,436:INFO: 
+
+-------------Round number: 46 -------------
+
+
+2024-06-09 07:18:19,846:INFO: Average Global Accurancy = 0.6432, Loss = 1.01.
+2024-06-09 07:18:19,846:INFO: Best Global Accurancy = 0.6432, Loss = 1.01, Iter = 46.
+2024-06-09 07:18:21,169:INFO: 
+
+-------------Round number: 47 -------------
+
+
+2024-06-09 07:18:21,576:INFO: Average Global Accurancy = 0.6489, Loss = 0.97.
+2024-06-09 07:18:21,576:INFO: Best Global Accurancy = 0.6489, Loss = 0.97, Iter = 47.
+2024-06-09 07:18:22,896:INFO: 
+
+-------------Round number: 48 -------------
+
+
+2024-06-09 07:18:23,260:INFO: Average Global Accurancy = 0.6452, Loss = 0.99.
+2024-06-09 07:18:23,260:INFO: Best Global Accurancy = 0.6489, Loss = 0.97, Iter = 47.
+2024-06-09 07:18:24,584:INFO: 
+
+-------------Round number: 49 -------------
+
+
+2024-06-09 07:18:24,948:INFO: Average Global Accurancy = 0.6448, Loss = 1.00.
+2024-06-09 07:18:24,948:INFO: Best Global Accurancy = 0.6489, Loss = 0.97, Iter = 47.
+2024-06-09 07:18:26,270:INFO: 
+
+-------------Round number: 50 -------------
+
+
+2024-06-09 07:18:26,680:INFO: Average Global Accurancy = 0.6672, Loss = 0.94.
+2024-06-09 07:18:26,680:INFO: Best Global Accurancy = 0.6672, Loss = 0.94, Iter = 50.
+2024-06-09 07:18:28,000:INFO: 
+
+-------------Round number: 51 -------------
+
+
+2024-06-09 07:18:28,364:INFO: Average Global Accurancy = 0.6647, Loss = 0.95.
+2024-06-09 07:18:28,364:INFO: Best Global Accurancy = 0.6672, Loss = 0.94, Iter = 50.
+2024-06-09 07:18:29,687:INFO: 
+
+-------------Round number: 52 -------------
+
+
+2024-06-09 07:18:30,051:INFO: Average Global Accurancy = 0.6640, Loss = 0.93.
+2024-06-09 07:18:30,051:INFO: Best Global Accurancy = 0.6672, Loss = 0.94, Iter = 50.
+2024-06-09 07:18:31,374:INFO: 
+
+-------------Round number: 53 -------------
+
+
+2024-06-09 07:18:31,738:INFO: Average Global Accurancy = 0.6636, Loss = 0.96.
+2024-06-09 07:18:31,738:INFO: Best Global Accurancy = 0.6672, Loss = 0.94, Iter = 50.
+2024-06-09 07:18:33,060:INFO: 
+
+-------------Round number: 54 -------------
+
+
+2024-06-09 07:18:33,424:INFO: Average Global Accurancy = 0.6589, Loss = 0.96.
+2024-06-09 07:18:33,424:INFO: Best Global Accurancy = 0.6672, Loss = 0.94, Iter = 50.
+2024-06-09 07:18:34,745:INFO: 
+
+-------------Round number: 55 -------------
+
+
+2024-06-09 07:18:35,157:INFO: Average Global Accurancy = 0.6876, Loss = 0.89.
+2024-06-09 07:18:35,157:INFO: Best Global Accurancy = 0.6876, Loss = 0.89, Iter = 55.
+2024-06-09 07:18:36,481:INFO: 
+
+-------------Round number: 56 -------------
+
+
+2024-06-09 07:18:36,846:INFO: Average Global Accurancy = 0.6779, Loss = 0.90.
+2024-06-09 07:18:36,846:INFO: Best Global Accurancy = 0.6876, Loss = 0.89, Iter = 55.
+2024-06-09 07:18:38,168:INFO: 
+
+-------------Round number: 57 -------------
+
+
+2024-06-09 07:18:38,533:INFO: Average Global Accurancy = 0.6823, Loss = 0.90.
+2024-06-09 07:18:38,533:INFO: Best Global Accurancy = 0.6876, Loss = 0.89, Iter = 55.
+2024-06-09 07:18:39,851:INFO: 
+
+-------------Round number: 58 -------------
+
+
+2024-06-09 07:18:40,216:INFO: Average Global Accurancy = 0.6809, Loss = 0.91.
+2024-06-09 07:18:40,216:INFO: Best Global Accurancy = 0.6876, Loss = 0.89, Iter = 55.
+2024-06-09 07:18:41,537:INFO: 
+
+-------------Round number: 59 -------------
+
+
+2024-06-09 07:18:41,949:INFO: Average Global Accurancy = 0.6951, Loss = 0.87.
+2024-06-09 07:18:41,949:INFO: Best Global Accurancy = 0.6951, Loss = 0.87, Iter = 59.
+2024-06-09 07:18:43,272:INFO: 
+
+-------------Round number: 60 -------------
+
+
+2024-06-09 07:18:43,684:INFO: Average Global Accurancy = 0.6967, Loss = 0.86.
+2024-06-09 07:18:43,684:INFO: Best Global Accurancy = 0.6967, Loss = 0.86, Iter = 60.
+2024-06-09 07:18:45,004:INFO: 
+
+-------------Round number: 61 -------------
+
+
+2024-06-09 07:18:45,368:INFO: Average Global Accurancy = 0.6967, Loss = 0.85.
+2024-06-09 07:18:45,368:INFO: Best Global Accurancy = 0.6967, Loss = 0.86, Iter = 60.
+2024-06-09 07:18:46,688:INFO: 
+
+-------------Round number: 62 -------------
+
+
+2024-06-09 07:18:47,104:INFO: Average Global Accurancy = 0.7026, Loss = 0.84.
+2024-06-09 07:18:47,104:INFO: Best Global Accurancy = 0.7026, Loss = 0.84, Iter = 62.
+2024-06-09 07:18:48,427:INFO: 
+
+-------------Round number: 63 -------------
+
+
+2024-06-09 07:18:48,837:INFO: Average Global Accurancy = 0.7070, Loss = 0.83.
+2024-06-09 07:18:48,838:INFO: Best Global Accurancy = 0.7070, Loss = 0.83, Iter = 63.
+2024-06-09 07:18:50,158:INFO: 
+
+-------------Round number: 64 -------------
+
+
+2024-06-09 07:18:50,523:INFO: Average Global Accurancy = 0.7070, Loss = 0.83.
+2024-06-09 07:18:50,523:INFO: Best Global Accurancy = 0.7070, Loss = 0.83, Iter = 63.
+2024-06-09 07:18:51,844:INFO: 
+
+-------------Round number: 65 -------------
+
+
+2024-06-09 07:18:52,255:INFO: Average Global Accurancy = 0.7104, Loss = 0.83.
+2024-06-09 07:18:52,255:INFO: Best Global Accurancy = 0.7104, Loss = 0.83, Iter = 65.
+2024-06-09 07:18:53,578:INFO: 
+
+-------------Round number: 66 -------------
+
+
+2024-06-09 07:18:53,942:INFO: Average Global Accurancy = 0.7086, Loss = 0.84.
+2024-06-09 07:18:53,942:INFO: Best Global Accurancy = 0.7104, Loss = 0.83, Iter = 65.
+2024-06-09 07:18:55,262:INFO: 
+
+-------------Round number: 67 -------------
+
+
+2024-06-09 07:18:55,670:INFO: Average Global Accurancy = 0.7203, Loss = 0.80.
+2024-06-09 07:18:55,670:INFO: Best Global Accurancy = 0.7203, Loss = 0.80, Iter = 67.
+2024-06-09 07:18:56,993:INFO: 
+
+-------------Round number: 68 -------------
+
+
+2024-06-09 07:18:57,403:INFO: Average Global Accurancy = 0.7331, Loss = 0.76.
+2024-06-09 07:18:57,403:INFO: Best Global Accurancy = 0.7331, Loss = 0.76, Iter = 68.
+2024-06-09 07:18:58,727:INFO: 
+
+-------------Round number: 69 -------------
+
+
+2024-06-09 07:18:59,091:INFO: Average Global Accurancy = 0.7174, Loss = 0.81.
+2024-06-09 07:18:59,091:INFO: Best Global Accurancy = 0.7331, Loss = 0.76, Iter = 68.
+2024-06-09 07:19:00,413:INFO: 
+
+-------------Round number: 70 -------------
+
+
+2024-06-09 07:19:00,777:INFO: Average Global Accurancy = 0.7233, Loss = 0.80.
+2024-06-09 07:19:00,777:INFO: Best Global Accurancy = 0.7331, Loss = 0.76, Iter = 68.
+2024-06-09 07:19:02,097:INFO: 
+
+-------------Round number: 71 -------------
+
+
+2024-06-09 07:19:02,461:INFO: Average Global Accurancy = 0.7213, Loss = 0.81.
+2024-06-09 07:19:02,461:INFO: Best Global Accurancy = 0.7331, Loss = 0.76, Iter = 68.
+2024-06-09 07:19:03,782:INFO: 
+
+-------------Round number: 72 -------------
+
+
+2024-06-09 07:19:04,147:INFO: Average Global Accurancy = 0.7327, Loss = 0.77.
+2024-06-09 07:19:04,147:INFO: Best Global Accurancy = 0.7331, Loss = 0.76, Iter = 68.
+2024-06-09 07:19:05,466:INFO: 
+
+-------------Round number: 73 -------------
+
+
+2024-06-09 07:19:05,830:INFO: Average Global Accurancy = 0.7269, Loss = 0.80.
+2024-06-09 07:19:05,830:INFO: Best Global Accurancy = 0.7331, Loss = 0.76, Iter = 68.
+2024-06-09 07:19:07,148:INFO: 
+
+-------------Round number: 74 -------------
+
+
+2024-06-09 07:19:07,561:INFO: Average Global Accurancy = 0.7357, Loss = 0.76.
+2024-06-09 07:19:07,561:INFO: Best Global Accurancy = 0.7357, Loss = 0.76, Iter = 74.
+2024-06-09 07:19:08,879:INFO: 
+
+-------------Round number: 75 -------------
+
+
+2024-06-09 07:19:09,291:INFO: Average Global Accurancy = 0.7370, Loss = 0.76.
+2024-06-09 07:19:09,291:INFO: Best Global Accurancy = 0.7370, Loss = 0.76, Iter = 75.
+2024-06-09 07:19:10,608:INFO: 
+
+-------------Round number: 76 -------------
+
+
+2024-06-09 07:19:10,972:INFO: Average Global Accurancy = 0.7270, Loss = 0.80.
+2024-06-09 07:19:10,972:INFO: Best Global Accurancy = 0.7370, Loss = 0.76, Iter = 75.
+2024-06-09 07:19:12,290:INFO: 
+
+-------------Round number: 77 -------------
+
+
+2024-06-09 07:19:12,701:INFO: Average Global Accurancy = 0.7434, Loss = 0.74.
+2024-06-09 07:19:12,701:INFO: Best Global Accurancy = 0.7434, Loss = 0.74, Iter = 77.
+2024-06-09 07:19:14,020:INFO: 
+
+-------------Round number: 78 -------------
+
+
+2024-06-09 07:19:14,384:INFO: Average Global Accurancy = 0.7249, Loss = 0.81.
+2024-06-09 07:19:14,384:INFO: Best Global Accurancy = 0.7434, Loss = 0.74, Iter = 77.
+2024-06-09 07:19:15,703:INFO: 
+
+-------------Round number: 79 -------------
+
+
+2024-06-09 07:19:16,068:INFO: Average Global Accurancy = 0.7261, Loss = 0.82.
+2024-06-09 07:19:16,068:INFO: Best Global Accurancy = 0.7434, Loss = 0.74, Iter = 77.
+2024-06-09 07:19:17,388:INFO: 
+
+-------------Round number: 80 -------------
+
+
+2024-06-09 07:19:17,798:INFO: Average Global Accurancy = 0.7445, Loss = 0.76.
+2024-06-09 07:19:17,798:INFO: Best Global Accurancy = 0.7445, Loss = 0.76, Iter = 80.
+2024-06-09 07:19:19,120:INFO: 
+
+-------------Round number: 81 -------------
+
+
+2024-06-09 07:19:19,485:INFO: Average Global Accurancy = 0.7380, Loss = 0.79.
+2024-06-09 07:19:19,485:INFO: Best Global Accurancy = 0.7445, Loss = 0.76, Iter = 80.
+2024-06-09 07:19:20,806:INFO: 
+
+-------------Round number: 82 -------------
+
+
+2024-06-09 07:19:21,218:INFO: Average Global Accurancy = 0.7495, Loss = 0.74.
+2024-06-09 07:19:21,218:INFO: Best Global Accurancy = 0.7495, Loss = 0.74, Iter = 82.
+2024-06-09 07:19:22,541:INFO: 
+
+-------------Round number: 83 -------------
+
+
+2024-06-09 07:19:22,905:INFO: Average Global Accurancy = 0.7415, Loss = 0.79.
+2024-06-09 07:19:22,905:INFO: Best Global Accurancy = 0.7495, Loss = 0.74, Iter = 82.
+2024-06-09 07:19:24,227:INFO: 
+
+-------------Round number: 84 -------------
+
+
+2024-06-09 07:19:24,592:INFO: Average Global Accurancy = 0.7437, Loss = 0.75.
+2024-06-09 07:19:24,592:INFO: Best Global Accurancy = 0.7495, Loss = 0.74, Iter = 82.
+2024-06-09 07:19:25,913:INFO: 
+
+-------------Round number: 85 -------------
+
+
+2024-06-09 07:19:26,325:INFO: Average Global Accurancy = 0.7519, Loss = 0.75.
+2024-06-09 07:19:26,326:INFO: Best Global Accurancy = 0.7519, Loss = 0.75, Iter = 85.
+2024-06-09 07:19:27,646:INFO: 
+
+-------------Round number: 86 -------------
+
+
+2024-06-09 07:19:28,057:INFO: Average Global Accurancy = 0.7581, Loss = 0.75.
+2024-06-09 07:19:28,058:INFO: Best Global Accurancy = 0.7581, Loss = 0.75, Iter = 86.
+2024-06-09 07:19:29,378:INFO: 
+
+-------------Round number: 87 -------------
+
+
+2024-06-09 07:19:29,742:INFO: Average Global Accurancy = 0.7521, Loss = 0.78.
+2024-06-09 07:19:29,742:INFO: Best Global Accurancy = 0.7581, Loss = 0.75, Iter = 86.
+2024-06-09 07:19:31,061:INFO: 
+
+-------------Round number: 88 -------------
+
+
+2024-06-09 07:19:31,479:INFO: Average Global Accurancy = 0.7605, Loss = 0.72.
+2024-06-09 07:19:31,479:INFO: Best Global Accurancy = 0.7605, Loss = 0.72, Iter = 88.
+2024-06-09 07:19:32,800:INFO: 
+
+-------------Round number: 89 -------------
+
+
+2024-06-09 07:19:33,164:INFO: Average Global Accurancy = 0.7339, Loss = 0.83.
+2024-06-09 07:19:33,164:INFO: Best Global Accurancy = 0.7605, Loss = 0.72, Iter = 88.
+2024-06-09 07:19:34,484:INFO: 
+
+-------------Round number: 90 -------------
+
+
+2024-06-09 07:19:34,848:INFO: Average Global Accurancy = 0.7366, Loss = 0.86.
+2024-06-09 07:19:34,848:INFO: Best Global Accurancy = 0.7605, Loss = 0.72, Iter = 88.
+2024-06-09 07:19:36,165:INFO: 
+
+-------------Round number: 91 -------------
+
+
+2024-06-09 07:19:36,529:INFO: Average Global Accurancy = 0.7461, Loss = 0.79.
+2024-06-09 07:19:36,529:INFO: Best Global Accurancy = 0.7605, Loss = 0.72, Iter = 88.
+2024-06-09 07:19:37,847:INFO: 
+
+-------------Round number: 92 -------------
+
+
+2024-06-09 07:19:38,211:INFO: Average Global Accurancy = 0.7534, Loss = 0.77.
+2024-06-09 07:19:38,211:INFO: Best Global Accurancy = 0.7605, Loss = 0.72, Iter = 88.
+2024-06-09 07:19:39,529:INFO: 
+
+-------------Round number: 93 -------------
+
+
+2024-06-09 07:19:39,894:INFO: Average Global Accurancy = 0.7489, Loss = 0.77.
+2024-06-09 07:19:39,894:INFO: Best Global Accurancy = 0.7605, Loss = 0.72, Iter = 88.
+2024-06-09 07:19:41,213:INFO: 
+
+-------------Round number: 94 -------------
+
+
+2024-06-09 07:19:41,577:INFO: Average Global Accurancy = 0.7604, Loss = 0.74.
+2024-06-09 07:19:41,577:INFO: Best Global Accurancy = 0.7605, Loss = 0.72, Iter = 88.
+2024-06-09 07:19:42,897:INFO: 
+
+-------------Round number: 95 -------------
+
+
+2024-06-09 07:19:43,308:INFO: Average Global Accurancy = 0.7613, Loss = 0.78.
+2024-06-09 07:19:43,308:INFO: Best Global Accurancy = 0.7613, Loss = 0.78, Iter = 95.
+2024-06-09 07:19:44,630:INFO: 
+
+-------------Round number: 96 -------------
+
+
+2024-06-09 07:19:44,995:INFO: Average Global Accurancy = 0.7503, Loss = 0.79.
+2024-06-09 07:19:44,995:INFO: Best Global Accurancy = 0.7613, Loss = 0.78, Iter = 95.
+2024-06-09 07:19:46,312:INFO: 
+
+-------------Round number: 97 -------------
+
+
+2024-06-09 07:19:46,676:INFO: Average Global Accurancy = 0.7589, Loss = 0.78.
+2024-06-09 07:19:46,676:INFO: Best Global Accurancy = 0.7613, Loss = 0.78, Iter = 95.
+2024-06-09 07:19:47,993:INFO: 
+
+-------------Round number: 98 -------------
+
+
+2024-06-09 07:19:48,358:INFO: Average Global Accurancy = 0.7546, Loss = 0.80.
+2024-06-09 07:19:48,358:INFO: Best Global Accurancy = 0.7613, Loss = 0.78, Iter = 95.
+2024-06-09 07:19:49,678:INFO: 
+
+-------------Round number: 99 -------------
+
+
+2024-06-09 07:19:50,043:INFO: Average Global Accurancy = 0.7523, Loss = 0.77.
+2024-06-09 07:19:50,043:INFO: Best Global Accurancy = 0.7613, Loss = 0.78, Iter = 95.
+2024-06-09 07:19:51,363:INFO: 
+
+-------------Round number: 100 -------------
+
+
+2024-06-09 07:19:51,774:INFO: Average Global Accurancy = 0.7641, Loss = 0.77.
+2024-06-09 07:19:51,774:INFO: Best Global Accurancy = 0.7641, Loss = 0.77, Iter = 100.
+2024-06-09 07:19:53,093:INFO: 
+
+-------------Round number: 101 -------------
+
+
+2024-06-09 07:19:53,505:INFO: Average Global Accurancy = 0.7680, Loss = 0.77.
+2024-06-09 07:19:53,505:INFO: Best Global Accurancy = 0.7680, Loss = 0.77, Iter = 101.
+2024-06-09 07:19:54,826:INFO: 
+
+-------------Round number: 102 -------------
+
+
+2024-06-09 07:19:55,191:INFO: Average Global Accurancy = 0.7623, Loss = 0.78.
+2024-06-09 07:19:55,191:INFO: Best Global Accurancy = 0.7680, Loss = 0.77, Iter = 101.
+2024-06-09 07:19:56,510:INFO: 
+
+-------------Round number: 103 -------------
+
+
+2024-06-09 07:19:56,874:INFO: Average Global Accurancy = 0.7678, Loss = 0.77.
+2024-06-09 07:19:56,874:INFO: Best Global Accurancy = 0.7680, Loss = 0.77, Iter = 101.
+2024-06-09 07:19:58,193:INFO: 
+
+-------------Round number: 104 -------------
+
+
+2024-06-09 07:19:58,605:INFO: Average Global Accurancy = 0.7683, Loss = 0.77.
+2024-06-09 07:19:58,605:INFO: Best Global Accurancy = 0.7683, Loss = 0.77, Iter = 104.
+2024-06-09 07:19:59,926:INFO: 
+
+-------------Round number: 105 -------------
+
+
+2024-06-09 07:20:00,291:INFO: Average Global Accurancy = 0.7500, Loss = 0.85.
+2024-06-09 07:20:00,291:INFO: Best Global Accurancy = 0.7683, Loss = 0.77, Iter = 104.
+2024-06-09 07:20:01,609:INFO: 
+
+-------------Round number: 106 -------------
+
+
+2024-06-09 07:20:01,973:INFO: Average Global Accurancy = 0.7595, Loss = 0.81.
+2024-06-09 07:20:01,974:INFO: Best Global Accurancy = 0.7683, Loss = 0.77, Iter = 104.
+2024-06-09 07:20:03,292:INFO: 
+
+-------------Round number: 107 -------------
+
+
+2024-06-09 07:20:03,658:INFO: Average Global Accurancy = 0.7676, Loss = 0.79.
+2024-06-09 07:20:03,658:INFO: Best Global Accurancy = 0.7683, Loss = 0.77, Iter = 104.
+2024-06-09 07:20:04,976:INFO: 
+
+-------------Round number: 108 -------------
+
+
+2024-06-09 07:20:05,340:INFO: Average Global Accurancy = 0.7560, Loss = 0.83.
+2024-06-09 07:20:05,341:INFO: Best Global Accurancy = 0.7683, Loss = 0.77, Iter = 104.
+2024-06-09 07:20:06,657:INFO: 
+
+-------------Round number: 109 -------------
+
+
+2024-06-09 07:20:07,022:INFO: Average Global Accurancy = 0.7603, Loss = 0.81.
+2024-06-09 07:20:07,022:INFO: Best Global Accurancy = 0.7683, Loss = 0.77, Iter = 104.
+2024-06-09 07:20:08,341:INFO: 
+
+-------------Round number: 110 -------------
+
+
+2024-06-09 07:20:08,707:INFO: Average Global Accurancy = 0.7665, Loss = 0.82.
+2024-06-09 07:20:08,707:INFO: Best Global Accurancy = 0.7683, Loss = 0.77, Iter = 104.
+2024-06-09 07:20:10,026:INFO: 
+
+-------------Round number: 111 -------------
+
+
+2024-06-09 07:20:10,390:INFO: Average Global Accurancy = 0.7518, Loss = 0.88.
+2024-06-09 07:20:10,390:INFO: Best Global Accurancy = 0.7683, Loss = 0.77, Iter = 104.
+2024-06-09 07:20:11,710:INFO: 
+
+-------------Round number: 112 -------------
+
+
+2024-06-09 07:20:12,121:INFO: Average Global Accurancy = 0.7736, Loss = 0.79.
+2024-06-09 07:20:12,121:INFO: Best Global Accurancy = 0.7736, Loss = 0.79, Iter = 112.
+2024-06-09 07:20:13,443:INFO: 
+
+-------------Round number: 113 -------------
+
+
+2024-06-09 07:20:13,853:INFO: Average Global Accurancy = 0.7739, Loss = 0.79.
+2024-06-09 07:20:13,853:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:15,173:INFO: 
+
+-------------Round number: 114 -------------
+
+
+2024-06-09 07:20:15,537:INFO: Average Global Accurancy = 0.7662, Loss = 0.81.
+2024-06-09 07:20:15,537:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:16,858:INFO: 
+
+-------------Round number: 115 -------------
+
+
+2024-06-09 07:20:17,223:INFO: Average Global Accurancy = 0.7597, Loss = 0.86.
+2024-06-09 07:20:17,223:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:18,544:INFO: 
+
+-------------Round number: 116 -------------
+
+
+2024-06-09 07:20:18,908:INFO: Average Global Accurancy = 0.7600, Loss = 0.86.
+2024-06-09 07:20:18,908:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:20,229:INFO: 
+
+-------------Round number: 117 -------------
+
+
+2024-06-09 07:20:20,594:INFO: Average Global Accurancy = 0.7639, Loss = 0.83.
+2024-06-09 07:20:20,594:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:21,915:INFO: 
+
+-------------Round number: 118 -------------
+
+
+2024-06-09 07:20:22,279:INFO: Average Global Accurancy = 0.7659, Loss = 0.81.
+2024-06-09 07:20:22,280:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:23,602:INFO: 
+
+-------------Round number: 119 -------------
+
+
+2024-06-09 07:20:23,966:INFO: Average Global Accurancy = 0.7694, Loss = 0.80.
+2024-06-09 07:20:23,966:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:25,287:INFO: 
+
+-------------Round number: 120 -------------
+
+
+2024-06-09 07:20:25,652:INFO: Average Global Accurancy = 0.7695, Loss = 0.83.
+2024-06-09 07:20:25,652:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:26,971:INFO: 
+
+-------------Round number: 121 -------------
+
+
+2024-06-09 07:20:27,336:INFO: Average Global Accurancy = 0.7684, Loss = 0.86.
+2024-06-09 07:20:27,336:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:28,656:INFO: 
+
+-------------Round number: 122 -------------
+
+
+2024-06-09 07:20:29,020:INFO: Average Global Accurancy = 0.7654, Loss = 0.84.
+2024-06-09 07:20:29,020:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:30,343:INFO: 
+
+-------------Round number: 123 -------------
+
+
+2024-06-09 07:20:30,707:INFO: Average Global Accurancy = 0.7713, Loss = 0.83.
+2024-06-09 07:20:30,707:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:32,026:INFO: 
+
+-------------Round number: 124 -------------
+
+
+2024-06-09 07:20:32,391:INFO: Average Global Accurancy = 0.7606, Loss = 0.90.
+2024-06-09 07:20:32,391:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:33,713:INFO: 
+
+-------------Round number: 125 -------------
+
+
+2024-06-09 07:20:34,125:INFO: Average Global Accurancy = 0.7734, Loss = 0.84.
+2024-06-09 07:20:34,126:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:35,446:INFO: 
+
+-------------Round number: 126 -------------
+
+
+2024-06-09 07:20:35,811:INFO: Average Global Accurancy = 0.7597, Loss = 0.88.
+2024-06-09 07:20:35,811:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:37,136:INFO: 
+
+-------------Round number: 127 -------------
+
+
+2024-06-09 07:20:37,501:INFO: Average Global Accurancy = 0.7594, Loss = 0.89.
+2024-06-09 07:20:37,501:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:38,823:INFO: 
+
+-------------Round number: 128 -------------
+
+
+2024-06-09 07:20:39,188:INFO: Average Global Accurancy = 0.7615, Loss = 0.86.
+2024-06-09 07:20:39,188:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:40,513:INFO: 
+
+-------------Round number: 129 -------------
+
+
+2024-06-09 07:20:40,878:INFO: Average Global Accurancy = 0.7675, Loss = 0.82.
+2024-06-09 07:20:40,878:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:42,201:INFO: 
+
+-------------Round number: 130 -------------
+
+
+2024-06-09 07:20:42,565:INFO: Average Global Accurancy = 0.7690, Loss = 0.82.
+2024-06-09 07:20:42,565:INFO: Best Global Accurancy = 0.7739, Loss = 0.79, Iter = 113.
+2024-06-09 07:20:43,888:INFO: 
+
+-------------Round number: 131 -------------
+
+
+2024-06-09 07:20:44,299:INFO: Average Global Accurancy = 0.7753, Loss = 0.83.
+2024-06-09 07:20:44,299:INFO: Best Global Accurancy = 0.7753, Loss = 0.83, Iter = 131.
+2024-06-09 07:20:45,625:INFO: 
+
+-------------Round number: 132 -------------
+
+
+2024-06-09 07:20:45,990:INFO: Average Global Accurancy = 0.7704, Loss = 0.87.
+2024-06-09 07:20:45,990:INFO: Best Global Accurancy = 0.7753, Loss = 0.83, Iter = 131.
+2024-06-09 07:20:47,311:INFO: 
+
+-------------Round number: 133 -------------
+
+
+2024-06-09 07:20:47,676:INFO: Average Global Accurancy = 0.7751, Loss = 0.84.
+2024-06-09 07:20:47,676:INFO: Best Global Accurancy = 0.7753, Loss = 0.83, Iter = 131.
+2024-06-09 07:20:48,995:INFO: 
+
+-------------Round number: 134 -------------
+
+
+2024-06-09 07:20:49,360:INFO: Average Global Accurancy = 0.7676, Loss = 0.89.
+2024-06-09 07:20:49,360:INFO: Best Global Accurancy = 0.7753, Loss = 0.83, Iter = 131.
+2024-06-09 07:20:50,680:INFO: 
+
+-------------Round number: 135 -------------
+
+
+2024-06-09 07:20:51,045:INFO: Average Global Accurancy = 0.7580, Loss = 0.91.
+2024-06-09 07:20:51,045:INFO: Best Global Accurancy = 0.7753, Loss = 0.83, Iter = 131.
+2024-06-09 07:20:52,371:INFO: 
+
+-------------Round number: 136 -------------
+
+
+2024-06-09 07:20:52,782:INFO: Average Global Accurancy = 0.7779, Loss = 0.82.
+2024-06-09 07:20:52,782:INFO: Best Global Accurancy = 0.7779, Loss = 0.82, Iter = 136.
+2024-06-09 07:20:54,109:INFO: 
+
+-------------Round number: 137 -------------
+
+
+2024-06-09 07:20:54,473:INFO: Average Global Accurancy = 0.7737, Loss = 0.87.
+2024-06-09 07:20:54,473:INFO: Best Global Accurancy = 0.7779, Loss = 0.82, Iter = 136.
+2024-06-09 07:20:55,800:INFO: 
+
+-------------Round number: 138 -------------
+
+
+2024-06-09 07:20:56,210:INFO: Average Global Accurancy = 0.7800, Loss = 0.85.
+2024-06-09 07:20:56,210:INFO: Best Global Accurancy = 0.7800, Loss = 0.85, Iter = 138.
+2024-06-09 07:20:57,537:INFO: 
+
+-------------Round number: 139 -------------
+
+
+2024-06-09 07:20:57,901:INFO: Average Global Accurancy = 0.7715, Loss = 0.89.
+2024-06-09 07:20:57,902:INFO: Best Global Accurancy = 0.7800, Loss = 0.85, Iter = 138.
+2024-06-09 07:20:59,229:INFO: 
+
+-------------Round number: 140 -------------
+
+
+2024-06-09 07:20:59,594:INFO: Average Global Accurancy = 0.7706, Loss = 0.92.
+2024-06-09 07:20:59,594:INFO: Best Global Accurancy = 0.7800, Loss = 0.85, Iter = 138.
+2024-06-09 07:21:00,915:INFO: 
+
+-------------Round number: 141 -------------
+
+
+2024-06-09 07:21:01,280:INFO: Average Global Accurancy = 0.7749, Loss = 0.85.
+2024-06-09 07:21:01,280:INFO: Best Global Accurancy = 0.7800, Loss = 0.85, Iter = 138.
+2024-06-09 07:21:02,601:INFO: 
+
+-------------Round number: 142 -------------
+
+
+2024-06-09 07:21:02,965:INFO: Average Global Accurancy = 0.7781, Loss = 0.87.
+2024-06-09 07:21:02,965:INFO: Best Global Accurancy = 0.7800, Loss = 0.85, Iter = 138.
+2024-06-09 07:21:04,288:INFO: 
+
+-------------Round number: 143 -------------
+
+
+2024-06-09 07:21:04,653:INFO: Average Global Accurancy = 0.7771, Loss = 0.87.
+2024-06-09 07:21:04,653:INFO: Best Global Accurancy = 0.7800, Loss = 0.85, Iter = 138.
+2024-06-09 07:21:05,973:INFO: 
+
+-------------Round number: 144 -------------
+
+
+2024-06-09 07:21:06,338:INFO: Average Global Accurancy = 0.7785, Loss = 0.86.
+2024-06-09 07:21:06,338:INFO: Best Global Accurancy = 0.7800, Loss = 0.85, Iter = 138.
+2024-06-09 07:21:07,657:INFO: 
+
+-------------Round number: 145 -------------
+
+
+2024-06-09 07:21:08,068:INFO: Average Global Accurancy = 0.7849, Loss = 0.85.
+2024-06-09 07:21:08,068:INFO: Best Global Accurancy = 0.7849, Loss = 0.85, Iter = 145.
+2024-06-09 07:21:09,387:INFO: 
+
+-------------Round number: 146 -------------
+
+
+2024-06-09 07:21:09,752:INFO: Average Global Accurancy = 0.7803, Loss = 0.85.
+2024-06-09 07:21:09,752:INFO: Best Global Accurancy = 0.7849, Loss = 0.85, Iter = 145.
+2024-06-09 07:21:11,071:INFO: 
+
+-------------Round number: 147 -------------
+
+
+2024-06-09 07:21:11,436:INFO: Average Global Accurancy = 0.7737, Loss = 0.88.
+2024-06-09 07:21:11,436:INFO: Best Global Accurancy = 0.7849, Loss = 0.85, Iter = 145.
+2024-06-09 07:21:12,755:INFO: 
+
+-------------Round number: 148 -------------
+
+
+2024-06-09 07:21:13,120:INFO: Average Global Accurancy = 0.7789, Loss = 0.84.
+2024-06-09 07:21:13,120:INFO: Best Global Accurancy = 0.7849, Loss = 0.85, Iter = 145.
+2024-06-09 07:21:14,441:INFO: 
+
+-------------Round number: 149 -------------
+
+
+2024-06-09 07:21:14,806:INFO: Average Global Accurancy = 0.7729, Loss = 0.87.
+2024-06-09 07:21:14,806:INFO: Best Global Accurancy = 0.7849, Loss = 0.85, Iter = 145.
